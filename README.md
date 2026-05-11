@@ -40,15 +40,12 @@
 
 ### 📊 GitHub Stats
 
-<!-- Ganti SEMUA tulisan ridloabelian di bawah ini dengan username GitHub kamu -->
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ridloabelian&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=D4A843&icon_color=D4A843&count_private=true&include_all_commits=true" height="155" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ridloabelian&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=D4A843&langs_count=6" height="155" />
+  <img src="https://streak-stats.demolab.com?user=ridloabelian&theme=dark&hide_border=true&background=0d1117&ring=D4A843&fire=D4A843&currStreakLabel=D4A843" height="155" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=ridloabelian&theme=dark&hide_border=true&background=0d1117&ring=D4A843&fire=D4A843&currStreakLabel=D4A843" height="155" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ridloabelian&theme=github-compact&bg_color=0d1117&color=D4A843&line=D4A843&point=ffffff&hide_border=true" />
 </p>
 
 -----
