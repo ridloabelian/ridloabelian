@@ -52,18 +52,18 @@
 
 ### 🎓 Credentials
 
-`S1 Teknik Elektro`  |  `S2 Keuangan Syariah`  
+`BSc in Electrical Engineering`  |  `MSc in Islamic Finance`  
 `CWC` — Certified Waqf Competence  |  `CTA` — Certified Technical Analyst  |  `CDMS` — Certified Digital Marketing Specialist
 
 -----
 
 ### 🤝 Let’s Connect
 
-Tertarik diskusi soal **digitalisasi wakaf**, **AI untuk institusi Islam**, atau **kolaborasi tech**?
+Interested in discussing **waqf digitalization**, **AI for Islamic institutions**, or **tech collaboration**?
 
 [![Instagram](https://img.shields.io/badge/@ridloabelian-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/ridloabelian)
 [![LinkedIn](https://img.shields.io/badge/Ridlo_Abelian-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/ridloabelian)
 [![Website](https://img.shields.io/badge/ridlo.id-000000?style=flat&logo=safari&logoColor=white)](https://ridlo.id)
 [![Email](https://img.shields.io/badge/ridlo@amalproduktif.or.id-D4A843?style=flat&logo=gmail&logoColor=white)](mailto:ridlo@amalproduktif.or.id)
 
-> 💬 *“Wakaf bukan sekadar aset — ia adalah warisan peradaban. Mari bangun bersama.”*
+> 💬 *“Waqf is not just an asset — it is a legacy of civilization. Let's build it together.”*
