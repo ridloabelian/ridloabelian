@@ -52,8 +52,8 @@
 
 ### 🎓 Credentials
 
-`BSc in Electrical Engineering`  |  `MSc in Islamic Finance`  
-`CWC` — Certified Waqf Competence  |  `CTA` — Certified Technical Analyst  |  `CDMS` — Certified Digital Marketing Specialist
+`Electrical Engineering`  |  `Islamic Finance`  
+`Certified Waqf Competence`  |  `Certified Technical Analyst`  |  `Certified Digital Marketing Specialist`
 
 -----
 
