@@ -93,7 +93,7 @@
 ### 🎓 Credentials
 
 `Electrical Engineering`  |  `Islamic Finance`  
-`Certified Waqf Competence`  |  `Certified Technical Analyst`  |  `Certified Digital Marketing Specialist`
+`Certified Waqf Competence`  |  `Certified Technical Analyst`
 
 -----
 
