@@ -49,7 +49,6 @@
 
 | Project | Description | Tech |
 |---------|-------------|------|
-| [prodig](https://github.com/ridloabelian/prodig) | Marketplace lokal Indonesia untuk jual & beli e-book, template, course, preset, font, dan produk digital | TypeScript |
 | [conviq](https://github.com/ridloabelian/conviq) | Open-source live-chat, email support, omni-channel desk — alternative to Intercom, Zendesk, Salesforce | Ruby |
 
 #### 🛠️ Developer Tools & Templates
