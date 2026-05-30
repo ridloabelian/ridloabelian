@@ -45,7 +45,7 @@
 | [fwp.or.id](https://github.com/ridloabelian/fwp.or.id) | Official Portal of Forum Wakaf Produktif — transforming national endowment towards Golden Indonesia 2045 | JavaScript |
 | [darsnote](https://github.com/ridloabelian/darsnote) | AI SaaS for Islamic kajian: transcribe, summarize, and generate structured study notes | TypeScript |
 
-#### 💼 SaaS & Marketplace
+#### 💼 SaaS
 
 | Project | Description | Tech |
 |---------|-------------|------|
