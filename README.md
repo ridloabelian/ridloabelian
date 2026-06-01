@@ -36,6 +36,8 @@
 | [creative-director-ai](https://github.com/ridloabelian/creative-director-ai) | AI Creative Director untuk Ads Performance — generate script, visual direction, dan editor guideline | — |
 | [darsnote](https://github.com/ridloabelian/darsnote) | AI SaaS for Islamic kajian: transcribe YouTube/audio with Whisper, summarize with Groq Llama 3.1, generate structured study notes | TypeScript |
 | [qalam](https://github.com/ridloabelian/qalam) | Personal prompt engineering OS — turn messy drafts into elite, production-ready prompts | HTML |
+| [agen-saif](https://github.com/ridloabelian/agen-saif) | Fork of Hermes Agent for Indonesian language ecosystem — First Principles thinking + Islamic worldview | Python |
+| [muslim-rag](https://github.com/ridloabelian/muslim-rag) | Production-grade Graph RAG + Semantic RAG for Islamic Knowledge | Python |
 
 #### 🕌 Waqf & Islamic Tech
 
@@ -45,11 +47,12 @@
 | [fwp.or.id](https://github.com/ridloabelian/fwp.or.id) | Official Portal of Forum Wakaf Produktif — transforming national endowment towards Golden Indonesia 2045 | JavaScript |
 | [darsnote](https://github.com/ridloabelian/darsnote) | AI SaaS for Islamic kajian: transcribe, summarize, and generate structured study notes | TypeScript |
 
-#### 💼 SaaS
+#### 💼 SaaS & Commerce
 
 | Project | Description | Tech |
 |---------|-------------|------|
 | [conviq](https://github.com/ridloabelian/conviq) | Open-source live-chat, email support, omni-channel desk — alternative to Intercom, Zendesk, Salesforce | Ruby |
+| [prodig](https://github.com/ridloabelian/prodig) | Marketplace lokal Indonesia untuk jual & beli e-book, template, course, preset, font, dan produk digital lainnya | TypeScript |
 | [ManfaahOS](https://github.com/ridloabelian/manfaahos-dev) | Serverless web membership, checkout, LMS, affiliate, and CMS engine for Islamic institutions | Cloudflare / Apps Script |
 
 #### 🛠️ Developer Tools & Templates
@@ -60,6 +63,8 @@
 | [nazhir-vibe-pipeline](https://github.com/ridloabelian/nazhir-vibe-pipeline) | Zero-cost CLI vibe coding architecture for Nazhir developers, no IDE required | Shell |
 | [obsidian](https://github.com/ridloabelian/obsidian) | 🧠 Obsidian Command Center — Second Brain untuk 36+ project | Python |
 | [ridloabelian.github.io](https://github.com/ridloabelian/ridloabelian.github.io) | SAIF Activity Lab — internal productivity environment. Genact-inspired CLI & WASM app that simulates realistic terminal activity | JavaScript |
+| [exc-to-pdf](https://github.com/ridloabelian/exc-to-pdf) | Excel to PDF converter with advanced features and CLI interface | Python |
+| [quran.com-frontend-next](https://github.com/ridloabelian/quran.com-frontend-next) | Frontend build on Next.js | — |
 
 -----
 
