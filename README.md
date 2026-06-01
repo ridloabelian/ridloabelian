@@ -21,7 +21,7 @@
 |[saif.co.id](https://saif.co.id)                  |Shariah-compliant AI ecosystem — education, tools & platform for the Ummah   |🚧 Active  |
 |[amalproduktif.or.id](https://amalproduktif.or.id)|Nazhir wakaf produktif digital platform — donation, asset & impact management|🚧 Active  |
 |[fwp.or.id](https://github.com/ridloabelian/fwp.or.id) |Official Portal of Forum Wakaf Produktif (FWP) — transforming national endowment towards Golden Indonesia 2045 |🚧 Active  |
-|ManfaahOS                                         |Web membership & commerce system for Islamic institutions                    |🚧 Active  |
+|[ManfaahOS](https://github.com/ridloabelian/manfaahos-dev)|Cloudflare + Google Sheets membership & commerce system for Islamic institutions|🚧 Active  |
 
 -----
 
@@ -50,6 +50,7 @@
 | Project | Description | Tech |
 |---------|-------------|------|
 | [conviq](https://github.com/ridloabelian/conviq) | Open-source live-chat, email support, omni-channel desk — alternative to Intercom, Zendesk, Salesforce | Ruby |
+| [ManfaahOS](https://github.com/ridloabelian/manfaahos-dev) | Serverless web membership, checkout, LMS, affiliate, and CMS engine for Islamic institutions | Cloudflare / Apps Script |
 
 #### 🛠️ Developer Tools & Templates
 
