@@ -21,7 +21,9 @@
 |[saif.co.id](https://saif.co.id)                  |Shariah-compliant AI ecosystem — education, tools & platform for the Ummah   |🚧 Active  |
 |[amalproduktif.or.id](https://amalproduktif.or.id)|Nazhir wakaf produktif digital platform — donation, asset & impact management|🚧 Active  |
 |[fwp.or.id](https://github.com/ridloabelian/fwp.or.id) |Official Portal of Forum Wakaf Produktif (FWP) — transforming national endowment towards Golden Indonesia 2045 |🚧 Active  |
-|[ManfaahOS](https://github.com/ridloabelian/manfaahos-dev)|Cloudflare + Google Sheets membership & commerce system for Islamic institutions|🚧 Active  |
+|[agen-saif](https://github.com/ridloabelian/agen-saif) |Islamic AI agent fork of Hermes — Indonesian language ecosystem with First Principles thinking & Islamic worldview |🚧 Active  |
+|[prodig](https://github.com/ridloabelian/prodig)  |Marketplace lokal Indonesia untuk jual & beli e-book, template, course, preset, font, dan produk digital lainnya |🚧 Active  |
+|[muslim-rag](https://github.com/ridloabelian/muslim-rag) |Production-grade Graph RAG + Semantic RAG untuk Islamic Knowledge |🚧 Active  |
 
 -----
 
