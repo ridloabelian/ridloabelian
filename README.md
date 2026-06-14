@@ -55,6 +55,13 @@
 | [prodig](https://github.com/ridloabelian/prodig) | Marketplace lokal Indonesia untuk jual & beli e-book, template, course, preset, font, dan produk digital lainnya | TypeScript |
 | [ManfaahOS](https://github.com/ridloabelian/manfaahos-dev) | Serverless web membership, checkout, LMS, affiliate, and CMS engine for Islamic institutions | Cloudflare / Apps Script |
 
+#### 🔒 AI Security & Open Source
+
+| Project | Description | Tech |
+|---------|-------------|------|
+| [saif-skills](https://github.com/ridloabelian/saif-skills) | Open-source Google SAIF (Secure AI Framework) skills collection — 45 agent skills covering all 15 risks & 16 controls. First open-source SAIF skill repository in the world | Markdown |
+| [muslim-rag](https://github.com/ridloabelian/muslim-rag) | Production-grade Graph RAG + Semantic RAG for Islamic Knowledge | Python |
+
 #### 🛠️ Developer Tools & Templates
 
 | Project | Description | Tech |
@@ -62,9 +69,7 @@
 | [abelian-base](https://github.com/ridloabelian/abelian-base) | Ultra-extensible Blogger base template powered by Tailwind CSS v3. Zero legacy bloat, smart Homepage/Item/Archive modes | — |
 | [nazhir-vibe-pipeline](https://github.com/ridloabelian/nazhir-vibe-pipeline) | Zero-cost CLI vibe coding architecture for Nazhir developers, no IDE required | Shell |
 | [obsidian](https://github.com/ridloabelian/obsidian) | 🧠 Obsidian Command Center — Second Brain untuk 36+ project | Python |
-| [ridloabelian.github.io](https://github.com/ridloabelian/ridloabelian.github.io) | SAIF Activity Lab — internal productivity environment. Genact-inspired CLI & WASM app that simulates realistic terminal activity | JavaScript |
 | [exc-to-pdf](https://github.com/ridloabelian/exc-to-pdf) | Excel to PDF converter with advanced features and CLI interface | Python |
-| [quran.com-frontend-next](https://github.com/ridloabelian/quran.com-frontend-next) | Frontend build on Next.js | — |
 
 -----
 
