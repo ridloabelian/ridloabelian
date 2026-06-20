@@ -21,6 +21,7 @@
 |[saif.co.id](https://saif.co.id)                  |Shariah-compliant AI ecosystem — education, tools & platform for the Ummah   |🚧 Active  |
 |[amalproduktif.or.id](https://amalproduktif.or.id)|Nazhir wakaf produktif digital platform — donation, asset & impact management|🚧 Active  |
 |[fwp.or.id](https://github.com/ridloabelian/fwp.or.id) |Official Portal of Forum Wakaf Produktif (FWP) — transforming national endowment towards Golden Indonesia 2045 |🚧 Active  |
+|[nazhir.id](https://github.com/ridloabelian/nazhir.id) |Dashboard Wakaf Nasional ANI — Transformasi digital tata kelola wakaf Indonesia menuju Smart Nazhir Ecosystem 2030 |🚧 Active  |
 |[agen-saif](https://github.com/ridloabelian/agen-saif) |Islamic AI agent fork of Hermes — Indonesian language ecosystem with First Principles thinking & Islamic worldview |🚧 Active  |
 
 -----
@@ -41,6 +42,7 @@
 |---------|-------------|------|
 | [waqf-chain](https://github.com/ridloabelian/waqf-chain) | Open-source immutable ledger & public dashboard for waqf transparency. Built by ANI to empower Nazhirs worldwide | TypeScript |
 | [fwp.or.id](https://github.com/ridloabelian/fwp.or.id) | Official Portal of Forum Wakaf Produktif — transforming national endowment towards Golden Indonesia 2045 | JavaScript |
+| [waqf-agentic-workflow](https://github.com/ridloabelian/waqf-agentic-workflow) | Distributed AI agent orchestration mapped to 10 LSP BWI nazhir certification schemes (SS.001–SS.010) | Shell |
 
 #### 💼 SaaS & Commerce
 
