@@ -22,7 +22,6 @@
 | [amalproduktif.or.id](https://amalproduktif.or.id) | nazhir digital platform — donation, asset and impact management | 🟢 production |
 | [fwp.or.id](https://github.com/ridloabelian/fwp.or.id) | official portal of forum wakaf produktif (fwp) | 🟢 production |
 | [nazhir.id](https://github.com/ridloabelian/nazhir.id) | national waqf dashboard ani — smart nazhir ecosystem 2030 | 🚧 iterating |
-| [agen-saif](https://github.com/ridloabelian/agen-saif) | local ai agent orchestration with islamic worldview | 🚧 iterating |
 
 ---
 
@@ -33,7 +32,6 @@
 |---------|-------------|------|
 | ads-autonomous-cli | autonomous multi-agent marketing assistant deployed on cloudflare edge | typescript |
 | qalam | personal prompt engineering os | html |
-| agen-saif | python orchestration for headless agentic pipelines (hermes, mcp, 9router) | python |
 
 #### waqf and islamic tech
 | project | description | tech |
