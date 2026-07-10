@@ -6,6 +6,10 @@
 </p>
 
 <p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1200&color=D4A843&center=true&vCenter=true&width=760&lines=Waqf+%C3%97+AI+Infrastructure;Building+Halal+AI-first+Systems;Agentic+Workflows+for+the+Ummah" alt="Typing SVG" />
+</p>
+
+<p align="center">
   <a href="https://saif.co.id"><img alt="SAIF" src="https://img.shields.io/badge/SAIF-Agentic%20AI%20OS-D4A843?style=for-the-badge&labelColor=0D1117"></a>
   <a href="https://amalproduktif.or.id"><img alt="Amal Produktif" src="https://img.shields.io/badge/Amal%20Produktif-Nazhir%20Wakaf-16A34A?style=for-the-badge&labelColor=0D1117"></a>
   <a href="https://fwp.or.id"><img alt="FWP" src="https://img.shields.io/badge/FWP-Waqf%20Network-2563EB?style=for-the-badge&labelColor=0D1117"></a>
