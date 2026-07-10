@@ -78,15 +78,15 @@ Core direction:
 
 ## GitHub activity
 
-I use GitHub as an execution log for:
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ridloabelian/ridloabelian/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ridloabelian/ridloabelian/output/github-contribution-grid-snake.svg" />
+    <img alt="GitHub contribution graph" src="https://raw.githubusercontent.com/ridloabelian/ridloabelian/output/github-contribution-grid-snake.svg" />
+  </picture>
+</p>
 
-- agent skills and automation workflows
-- Cloudflare Workers / D1 experiments
-- waqf and Islamic-tech infrastructure
-- Obsidian-based AI memory and second-brain systems
-- Hermes profile backups and operational playbooks
-
-Most active work happens in private infrastructure repositories, while selected public repos document reusable patterns and open-source building blocks.
+I use GitHub as an execution log for agent skills, Cloudflare Workers/D1 experiments, waqf infrastructure, Obsidian AI memory, and Hermes operational playbooks.
 
 ---
 
