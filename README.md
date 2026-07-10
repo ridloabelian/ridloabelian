@@ -21,7 +21,6 @@ I’m building a **halal AI-first company operating system**: autonomous workflo
 Core direction:
 
 - **SAIF.co.id** — managed AI OS for B2B and B2C operations.
-- **NAKHODA Core** — multi-agent workflow engine for digital product business automation.
 - **Amal Produktif Indonesia** — registered waqf institution and social enterprise in Bandung.
 - **Forum Wakaf Produktif** — digital ecosystem for productive waqf collaboration.
 - **Asosiasi Nazhir Indonesia (ANI)** — national nazhir collaboration and innovation network.
@@ -39,7 +38,6 @@ Core direction:
 | Waqf Digital Infrastructure | Dashboards, reporting, knowledge systems, automation | Active |
 | ANI Digitalization | National nazhir ecosystem, innovation, and knowledge infrastructure | Active |
 | AI Second Brain | Obsidian + LLM Wiki + Karpathy-style knowledge compounding | Active |
-| Digital Product Automation | NAKHODA: trend → product → funnel → ads → WA → payment → P&L | Building |
 
 ---
 
