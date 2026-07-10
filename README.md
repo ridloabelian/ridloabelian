@@ -1,6 +1,10 @@
 <h1 align="center">Assalamu’alaikum, I’m Ridlo Abelian</h1>
 
 <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ridloabelian&label=Profile%20views&color=D4A843&style=flat-square" alt="profile views" />
+</p>
+
+<p align="center">
   <b>Waqf × AI × Agentic Infrastructure</b><br />
   Building halal AI-first systems for Islamic economic transformation.
 </p>
@@ -14,6 +18,10 @@
   <a href="https://amalproduktif.or.id"><img alt="Amal Produktif" src="https://img.shields.io/badge/Amal%20Produktif-Nazhir%20Wakaf-16A34A?style=for-the-badge&labelColor=0D1117"></a>
   <a href="https://fwp.or.id"><img alt="FWP" src="https://img.shields.io/badge/FWP-Waqf%20Network-2563EB?style=for-the-badge&labelColor=0D1117"></a>
   <a href="https://ani.or.id"><img alt="ANI" src="https://img.shields.io/badge/ANI-Asosiasi%20Nazhir%20Indonesia-7C3AED?style=for-the-badge&labelColor=0D1117"></a>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ridloabelian&theme=onedark&no-frame=true&no-bg=true&margin-w=8&row=1&column=6" alt="GitHub trophies" />
 </p>
 
 ---
@@ -56,6 +64,11 @@ Core direction:
 | [waqf-agentic-workflow](https://github.com/ridloabelian/waqf-agentic-workflow) | Agentic workflow mapped to BWI/LSP nazhir schemes | Shell, automation |
 | [obsidian](https://github.com/ridloabelian/obsidian) | Private second brain and AI memory system | Obsidian, GitHub Actions |
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ridloabelian&repo=saif-skills&theme=github_dark&hide_border=true" height="120" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ridloabelian&repo=waqf-agentic-workflow&theme=github_dark&hide_border=true" height="120" />
+</p>
+
 ---
 
 ## Operating principles
@@ -85,6 +98,11 @@ Core direction:
 ## GitHub activity
 
 <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ridloabelian&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ridloabelian&layout=compact&theme=github_dark&hide_border=true" height="165" />
+</p>
+
+<p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ridloabelian/ridloabelian/output/github-contribution-grid-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ridloabelian/ridloabelian/output/github-contribution-grid-snake.svg" />
@@ -93,6 +111,14 @@ Core direction:
 </p>
 
 I use GitHub as an execution log for agent skills, Cloudflare Workers/D1 experiments, waqf infrastructure, Obsidian AI memory, and Hermes operational playbooks.
+
+---
+
+## Quote
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="quote" />
+</p>
 
 ---
 
