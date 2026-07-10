@@ -9,7 +9,7 @@
   <a href="https://saif.co.id"><img alt="SAIF" src="https://img.shields.io/badge/SAIF-Agentic%20AI%20OS-D4A843?style=for-the-badge&labelColor=0D1117"></a>
   <a href="https://amalproduktif.or.id"><img alt="Amal Produktif" src="https://img.shields.io/badge/Amal%20Produktif-Nazhir%20Wakaf-16A34A?style=for-the-badge&labelColor=0D1117"></a>
   <a href="https://fwp.or.id"><img alt="FWP" src="https://img.shields.io/badge/FWP-Waqf%20Network-2563EB?style=for-the-badge&labelColor=0D1117"></a>
-  <a href="https://asosiasinazhirindonesia.org"><img alt="ANI" src="https://img.shields.io/badge/ANI-Asosiasi%20Nazhir%20Indonesia-7C3AED?style=for-the-badge&labelColor=0D1117"></a>
+  <a href="https://ani.or.id"><img alt="ANI" src="https://img.shields.io/badge/ANI-Asosiasi%20Nazhir%20Indonesia-7C3AED?style=for-the-badge&labelColor=0D1117"></a>
 </p>
 
 ---
@@ -49,7 +49,7 @@ Core direction:
 |---|---|---|
 | [saif.co.id](https://saif.co.id) | Managed AI OS and agentic workflow infrastructure | Cloudflare, Workers, D1, AI Gateway |
 | [fwp.or.id](https://fwp.or.id) | Forum Wakaf Produktif portal | React, Vite, Cloudflare Pages |
-| [Asosiasi Nazhir Indonesia](https://asosiasinazhirindonesia.org) | National productive waqf and nazhir collaboration network | Digital ecosystem, knowledge systems |
+| [Asosiasi Nazhir Indonesia](https://ani.or.id) | National productive waqf and nazhir collaboration network | Digital ecosystem, knowledge systems |
 | [saif-skills](https://github.com/ridloabelian/saif-skills) | Open-source SAIF security skills for AI agents | Markdown, Hermes Skills |
 | [waqf-agentic-workflow](https://github.com/ridloabelian/waqf-agentic-workflow) | Agentic workflow mapped to BWI/LSP nazhir schemes | Shell, automation |
 | [obsidian](https://github.com/ridloabelian/obsidian) | Private second brain and AI memory system | Obsidian, GitHub Actions |
@@ -101,7 +101,7 @@ I use GitHub as an execution log for agent skills, Cloudflare Workers/D1 experim
   <a href="https://saif.co.id">SAIF</a> ·
   <a href="https://amalproduktif.or.id">Amal Produktif</a> ·
   <a href="https://fwp.or.id">FWP</a> ·
-  <a href="https://asosiasinazhirindonesia.org">ANI</a> ·
+  <a href="https://ani.or.id">ANI</a> ·
   <a href="https://linkedin.com/in/ridloabelian">LinkedIn</a> ·
   <a href="https://instagram.com/ridloabelian">Instagram</a>
 </p>
