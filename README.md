@@ -25,9 +25,9 @@ I build **halal AI-first infrastructure** for waqf institutions, NGOs, and B2B o
 Core direction:
 
 - **SAIF.co.id** — managed AI OS for B2B and B2C operations.
-- **Amal Produktif Indonesia** — registered waqf institution and social enterprise in Bandung.
+- **Amal Produktif** — registered waqf institution and social enterprise in Bandung.
 - **Forum Wakaf Produktif** — digital ecosystem for productive waqf collaboration.
-- **Asosiasi Nazhir Indonesia (ANI)** — national nazhir collaboration and innovation network.
+- **Asosiasi Nazhir Indonesia** — national nazhir collaboration and innovation network.
 
 > Mission: turn Islamic social capital into scalable, transparent, technology-enabled impact.
 
