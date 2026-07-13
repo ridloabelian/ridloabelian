@@ -85,6 +85,10 @@ Core direction:
 ## GitHub activity
 
 <p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ridloabelian&bg_color=0d1117&color=d4a843&line=d4a843&point=ffffff&area=true&hide_border=true" width="100%" alt="Activity Graph" />
+</p>
+
+<p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ridloabelian/ridloabelian/output/github-contribution-grid-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ridloabelian/ridloabelian/output/github-contribution-grid-snake.svg" />
