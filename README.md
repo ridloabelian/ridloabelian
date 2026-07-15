@@ -1,16 +1,17 @@
 <h1 align="center">Assalamu’alaikum, I’m Ridlo Abelian</h1>
 
 <p align="center">
-  <b>Waqf × AI × Agentic Infrastructure</b><br />
-  Building halal AI-first systems for Islamic economic transformation.
+  <b>Waqf × AI × Independent Digital Businesses</b><br />
+  Building halal, agentic systems for economic and social impact.
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1200&color=D4A843&center=true&vCenter=true&width=760&lines=Waqf+%C3%97+AI+Infrastructure;Building+Halal+AI-first+Systems;Agentic+Workflows+for+the+Ummah" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1200&color=D4A843&center=true&vCenter=true&width=760&lines=Waqf+%C3%97+AI+Infrastructure;Building+B2B+and+B2C+AI+Businesses;Agentic+Systems+for+the+Ummah" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <a href="https://saif.co.id"><img alt="SAIF" src="https://img.shields.io/badge/SAIF-Agentic%20AI%20OS-D4A843?style=for-the-badge&labelColor=0D1117"></a>
+  <a href="https://saif.co.id"><img alt="SAIF" src="https://img.shields.io/badge/SAIF-B2B%20AI%20Infrastructure-D4A843?style=for-the-badge&labelColor=0D1117"></a>
+  <a href="https://prodig.id"><img alt="Prodig" src="https://img.shields.io/badge/Prodig-B2C%20Digital%20Products-EF4444?style=for-the-badge&labelColor=0D1117"></a>
   <a href="https://amalproduktif.or.id"><img alt="Amal Produktif" src="https://img.shields.io/badge/Amal%20Produktif-Nazhir%20Wakaf-16A34A?style=for-the-badge&labelColor=0D1117"></a>
   <a href="https://fwp.or.id"><img alt="FWP" src="https://img.shields.io/badge/FWP-Waqf%20Network-2563EB?style=for-the-badge&labelColor=0D1117"></a>
   <a href="https://ani.or.id"><img alt="ANI" src="https://img.shields.io/badge/ANI-Nazir%20Association-7C3AED?style=for-the-badge&labelColor=0D1117"></a>
@@ -18,16 +19,18 @@
 
 ---
 
-## What I’m building
+## Build · Serve · Invest
 
-I build **halal AI-first infrastructure** for waqf institutions, NGOs, and B2B operators: agentic workflows, memory systems, and serverless automation.
+I operate across all four Cashflow Quadrants while keeping every stream halal-first and institutionally separated.
 
-Core direction:
+| Lane | What I do | Model |
+|---|---|---|
+| **Build** | [SAIF.co.id](https://saif.co.id) for B2B AI infrastructure; [Prodig.id](https://prodig.id) for B2C digital products; selected Web3 products | Business owner |
+| **Serve** | Content creation, paid-traffic strategy across Meta/TikTok/Google, and agentic implementation | Independent professional |
+| **Invest** | Sharia-compliant Indonesian equities and carefully screened digital assets | Investor |
+| **Lead** | CEO of Amal Produktif, a registered waqf institution | Executive |
 
-- **SAIF.co.id** — managed AI OS for B2B and B2C operations.
-- **Amal Produktif** — registered waqf institution and social enterprise in Bandung.
-- **Forum Wakaf Produktif** — digital ecosystem for productive waqf collaboration.
-- **Nazir Association of Indonesia** — national nazir collaboration and innovation network.
+My institutional work also supports **Forum Wakaf Produktif** and the **Nazir Association of Indonesia**. These roles remain separate from my personal business and investment activities.
 
 > Mission: turn Islamic social capital into scalable, transparent, technology-enabled impact.
 
@@ -37,11 +40,11 @@ Core direction:
 
 | Area | What it means | Status |
 |---|---|---|
-| Agentic AI OS | Hermes-based profiles, skills, cron, memory, multi-agent workflows | Active |
-| SAIF Gateway | Serverless AI gateway on Cloudflare Workers + D1 | Building |
+| SAIF — B2B | Scalable Artificial Infrastructure Factory for agentic business operations | Building |
+| Prodig — B2C | AI-first digital products, automated mentorship, and fulfillment | Building |
+| Agentic Operations | Hermes-based profiles, skills, memory, and multi-agent workflows | Active |
 | Waqf Digital Infrastructure | Dashboards, reporting, knowledge systems, automation | Active |
-| ANI Digitalization | National nazhir ecosystem, innovation, and knowledge infrastructure | Active |
-| AI Second Brain | Obsidian + LLM Wiki + Karpathy-style knowledge compounding | Active |
+| Knowledge Infrastructure | Obsidian, LLM Wiki, and reusable operational knowledge | Active |
 
 ---
 
@@ -49,12 +52,14 @@ Core direction:
 
 | Project | Description | Stack |
 |---|---|---|
-| [saif.co.id](https://saif.co.id) | Managed AI OS and agentic workflow infrastructure | Cloudflare, Workers, D1, AI Gateway |
+| [saif.co.id](https://saif.co.id) | B2B scalable artificial infrastructure and agentic operations | Cloudflare, Workers, D1, AI Gateway |
+| [prodig.id](https://prodig.id) | B2C AI-first digital products and automated mentorship | Serverless, AI agents, digital fulfillment |
+| [Stack Nol Rupiah](https://github.com/ridloabelian/awesome-rp0-id) | Indonesian open-source map for zero-cost product validation | Six curated GitHub repositories |
 | [fwp.or.id](https://fwp.or.id) | Forum Wakaf Produktif portal | React, Vite, Cloudflare Pages |
 | [Nazir Association of Indonesia](https://ani.or.id) | National productive waqf and nazir collaboration network | Digital ecosystem, knowledge systems |
 | [saif-skills](https://github.com/ridloabelian/saif-skills) | Open-source SAIF security skills for AI agents | Markdown, Hermes Skills |
 | [waqf-agentic-workflow](https://github.com/ridloabelian/waqf-agentic-workflow) | Agentic workflow mapped to BWI/LSP nazir schemes | Shell, automation |
-| [obsidian](https://github.com/ridloabelian/obsidian) | Private second brain and AI memory system | Obsidian, GitHub Actions |
+
 
 ---
 
