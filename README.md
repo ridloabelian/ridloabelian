@@ -27,7 +27,7 @@ Core direction:
 - **SAIF.co.id** — managed AI OS for B2B and B2C operations.
 - **Amal Produktif** — registered waqf institution and social enterprise in Bandung.
 - **Forum Wakaf Produktif** — digital ecosystem for productive waqf collaboration.
-- **Asosiasi Nazhir Indonesia** — national nazhir collaboration and innovation network.
+- **Nazir Association of Indonesia** — national nazir collaboration and innovation network.
 
 > Mission: turn Islamic social capital into scalable, transparent, technology-enabled impact.
 
@@ -51,26 +51,26 @@ Core direction:
 |---|---|---|
 | [saif.co.id](https://saif.co.id) | Managed AI OS and agentic workflow infrastructure | Cloudflare, Workers, D1, AI Gateway |
 | [fwp.or.id](https://fwp.or.id) | Forum Wakaf Produktif portal | React, Vite, Cloudflare Pages |
-| [Asosiasi Nazhir Indonesia](https://ani.or.id) | National productive waqf and nazhir collaboration network | Digital ecosystem, knowledge systems |
+| [Nazir Association of Indonesia](https://ani.or.id) | National productive waqf and nazir collaboration network | Digital ecosystem, knowledge systems |
 | [saif-skills](https://github.com/ridloabelian/saif-skills) | Open-source SAIF security skills for AI agents | Markdown, Hermes Skills |
-| [waqf-agentic-workflow](https://github.com/ridloabelian/waqf-agentic-workflow) | Agentic workflow mapped to BWI/LSP nazhir schemes | Shell, automation |
+| [waqf-agentic-workflow](https://github.com/ridloabelian/waqf-agentic-workflow) | Agentic workflow mapped to BWI/LSP nazir schemes | Shell, automation |
 | [obsidian](https://github.com/ridloabelian/obsidian) | Private second brain and AI memory system | Obsidian, GitHub Actions |
 
 ---
 
 ## Open Source — Stack Nol Rupiah
 
-**[Start here: Stack Nol Rupiah](https://github.com/ridloabelian/awesome-rp0-id)** — peta bootstrap gratis untuk indie hacker Indonesia, dengan katalog terverifikasi dan batas free-tier yang diaudit.
+**[Start here: Stack Nol Rupiah](https://github.com/ridloabelian/awesome-rp0-id)** — an Indonesian open-source map for building and validating digital products with zero-cost infrastructure, verified catalogs, and audited free-tier limits.
 
-| Kitab | Fokus |
+| Kitab | Focus |
 |---|---|
 | [Cloudflare](https://github.com/ridloabelian/awesome-cloudflare-id) | Edge, Workers, Pages, D1, R2 |
 | [Google](https://github.com/ridloabelian/awesome-google-free-id) | Apps Script, Sheets, Firebase, Gemini/AI Studio |
 | [Supabase](https://github.com/ridloabelian/awesome-supabase-id) | Postgres, Auth, Realtime, Storage |
-| [Telegram](https://github.com/ridloabelian/awesome-telegram-infra-id) | Bot, notifikasi, Mini Apps, file non-kritis |
+| [Telegram](https://github.com/ridloabelian/awesome-telegram-infra-id) | Bots, notifications, Mini Apps, non-critical files |
 | [Oracle Cloud](https://github.com/ridloabelian/awesome-oracle-free-id) | Always Free compute, Docker, self-hosting |
 
-> Fokus saat ini: kualitas, keamanan, maintenance, dan kontribusi komunitas — bukan menambah ekosistem baru.
+> Current focus: quality, security, maintenance, and community contributions—not adding more ecosystems.
 
 ---
 
