@@ -13,7 +13,7 @@
   <a href="https://saif.co.id"><img alt="SAIF" src="https://img.shields.io/badge/SAIF-Agentic%20AI%20OS-D4A843?style=for-the-badge&labelColor=0D1117"></a>
   <a href="https://amalproduktif.or.id"><img alt="Amal Produktif" src="https://img.shields.io/badge/Amal%20Produktif-Nazhir%20Wakaf-16A34A?style=for-the-badge&labelColor=0D1117"></a>
   <a href="https://fwp.or.id"><img alt="FWP" src="https://img.shields.io/badge/FWP-Waqf%20Network-2563EB?style=for-the-badge&labelColor=0D1117"></a>
-  <a href="https://ani.or.id"><img alt="ANI" src="https://img.shields.io/badge/ANI-Asosiasi%20Nazhir%20Indonesia-7C3AED?style=for-the-badge&labelColor=0D1117"></a>
+  <a href="https://ani.or.id"><img alt="ANI" src="https://img.shields.io/badge/ANI-Nazir%20Association-7C3AED?style=for-the-badge&labelColor=0D1117"></a>
 </p>
 
 ---
