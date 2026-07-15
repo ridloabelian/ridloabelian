@@ -58,6 +58,22 @@ Core direction:
 
 ---
 
+## Open Source — Stack Nol Rupiah
+
+**[Start here: Stack Nol Rupiah](https://github.com/ridloabelian/awesome-rp0-id)** — peta bootstrap gratis untuk indie hacker Indonesia, dengan katalog terverifikasi dan batas free-tier yang diaudit.
+
+| Kitab | Fokus |
+|---|---|
+| [Cloudflare](https://github.com/ridloabelian/awesome-cloudflare-id) | Edge, Workers, Pages, D1, R2 |
+| [Google](https://github.com/ridloabelian/awesome-google-free-id) | Apps Script, Sheets, Firebase, Gemini/AI Studio |
+| [Supabase](https://github.com/ridloabelian/awesome-supabase-id) | Postgres, Auth, Realtime, Storage |
+| [Telegram](https://github.com/ridloabelian/awesome-telegram-infra-id) | Bot, notifikasi, Mini Apps, file non-kritis |
+| [Oracle Cloud](https://github.com/ridloabelian/awesome-oracle-free-id) | Always Free compute, Docker, self-hosting |
+
+> Fokus saat ini: kualitas, keamanan, maintenance, dan kontribusi komunitas — bukan menambah ekosistem baru.
+
+---
+
 ## Operating principles
 
 - **Halal-first.** Speed matters, but barakah matters more.
