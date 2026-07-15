@@ -114,7 +114,6 @@ My institutional work also supports **Forum Wakaf Produktif** and the **Nazir As
 **Agentic operations & knowledge**
 
 <p>
-  <img alt="Hermes Agent" src="https://img.shields.io/badge/Hermes-Agentic%20Operations-D4A843?style=flat-square&labelColor=0D1117" />
   <img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" />
   <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img alt="Obsidian" src="https://img.shields.io/badge/Obsidian-7C3AED?style=flat-square&logo=obsidian&logoColor=white" />
