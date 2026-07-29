@@ -56,7 +56,7 @@ My institutional work also supports **Forum Wakaf Produktif** and the **Nazir As
 | [prodig.id](https://prodig.id) | B2C AI-first digital products and automated mentorship | Serverless, AI agents, digital fulfillment |
 | [Stack Nol Rupiah](https://github.com/ridloabelian/awesome-rp0-id) | Indonesian open-source map for zero-cost product validation | Six curated GitHub repositories |
 | [fwp.or.id](https://fwp.or.id) | Forum Wakaf Produktif portal | React, Vite, Cloudflare Pages |
-| [Nazir Association of Indonesia](https://ani.or.id) | National productive waqf platform & e-learning ecosystem | WordPress, Sejoli, Cloudflare Workers/Pages |
+| [ani.or.id](https://ani.or.id) | National productive waqf platform & e-learning ecosystem | WordPress, Sejoli, Cloudflare Workers/Pages |
 | [awesome-meta-platform](https://github.com/ridloabelian/awesome-meta-platform) | Curated open-source tools, SDKs, and MCP servers for Meta platform | Markdown, Meta API, MCP |
 | [saif-skills](https://github.com/ridloabelian/saif-skills) | Open-source SAIF security skills for AI agents | Markdown, Hermes Skills |
 | [waqf-agentic-workflow](https://github.com/ridloabelian/waqf-agentic-workflow) | Agentic workflow mapped to BWI/LSP nazir schemes | Shell, automation |
