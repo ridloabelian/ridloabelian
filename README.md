@@ -9,13 +9,9 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1200&color=D4A843&center=true&vCenter=true&width=760&lines=Waqf+%C3%97+AI+Infrastructure;Building+B2B+and+B2C+AI+Businesses;Agentic+Systems+for+the+Ummah" alt="Typing SVG" />
 </p>
 
-<p align="center">
-  <a href="https://saif.co.id"><img alt="SAIF" src="https://img.shields.io/badge/SAIF-B2B%20AI%20Infrastructure-D4A843?style=for-the-badge&labelColor=0D1117"></a>&nbsp;
-  <a href="https://prodig.id"><img alt="Prodig" src="https://img.shields.io/badge/Prodig-B2C%20Digital%20Products-EF4444?style=for-the-badge&labelColor=0D1117"></a>&nbsp;
-  <a href="https://amalproduktif.or.id"><img alt="Amal Produktif" src="https://img.shields.io/badge/Amal%20Produktif-Nazhir%20Wakaf-16A34A?style=for-the-badge&labelColor=0D1117"></a>&nbsp;
-  <a href="https://fwp.or.id"><img alt="FWP" src="https://img.shields.io/badge/FWP-Waqf%20Network-2563EB?style=for-the-badge&labelColor=0D1117"></a>&nbsp;
-  <a href="https://ani.or.id"><img alt="ANI" src="https://img.shields.io/badge/ANI-Nazir%20Association-7C3AED?style=for-the-badge&labelColor=0D1117"></a>
-</p>
+<div align="center">
+  <a href="https://saif.co.id"><img alt="SAIF" src="https://img.shields.io/badge/SAIF-B2B%20AI%20Infrastructure-D4A843?style=for-the-badge&labelColor=0D1117"></a><a href="https://prodig.id"><img alt="Prodig" src="https://img.shields.io/badge/Prodig-B2C%20Digital%20Products-EF4444?style=for-the-badge&labelColor=0D1117"></a><a href="https://amalproduktif.or.id"><img alt="Amal Produktif" src="https://img.shields.io/badge/Amal%20Produktif-Nazhir%20Wakaf-16A34A?style=for-the-badge&labelColor=0D1117"></a><a href="https://fwp.or.id"><img alt="FWP" src="https://img.shields.io/badge/FWP-Waqf%20Network-2563EB?style=for-the-badge&labelColor=0D1117"></a><a href="https://ani.or.id"><img alt="ANI" src="https://img.shields.io/badge/ANI-Nazir%20Association-7C3AED?style=for-the-badge&labelColor=0D1117"></a>
+</div>
 
 ---
 
