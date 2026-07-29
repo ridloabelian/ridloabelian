@@ -56,7 +56,8 @@ My institutional work also supports **Forum Wakaf Produktif** and the **Nazir As
 | [prodig.id](https://prodig.id) | B2C AI-first digital products and automated mentorship | Serverless, AI agents, digital fulfillment |
 | [Stack Nol Rupiah](https://github.com/ridloabelian/awesome-rp0-id) | Indonesian open-source map for zero-cost product validation | Six curated GitHub repositories |
 | [fwp.or.id](https://fwp.or.id) | Forum Wakaf Produktif portal | React, Vite, Cloudflare Pages |
-| [Nazir Association of Indonesia](https://ani.or.id) | National productive waqf and nazir collaboration network | Digital ecosystem, knowledge systems |
+| [Nazir Association of Indonesia](https://ani.or.id) | National productive waqf platform & e-learning ecosystem | WordPress, Sejoli, Cloudflare Workers/Pages |
+| [awesome-meta-platform](https://github.com/ridloabelian/awesome-meta-platform) | Curated open-source tools, SDKs, and MCP servers for Meta platform | Markdown, Meta API, MCP |
 | [saif-skills](https://github.com/ridloabelian/saif-skills) | Open-source SAIF security skills for AI agents | Markdown, Hermes Skills |
 | [waqf-agentic-workflow](https://github.com/ridloabelian/waqf-agentic-workflow) | Agentic workflow mapped to BWI/LSP nazir schemes | Shell, automation |
 
@@ -95,6 +96,8 @@ My institutional work also supports **Forum Wakaf Produktif** and the **Nazir As
 
 <p>
   <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+  <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
+  <img alt="WordPress" src="https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white" />
   <img alt="Astro" src="https://img.shields.io/badge/Astro-BC52EE?style=flat-square&logo=astro&logoColor=white" />
   <img alt="Hono" src="https://img.shields.io/badge/Hono-E36002?style=flat-square&logo=hono&logoColor=white" />
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
