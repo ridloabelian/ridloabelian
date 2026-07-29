@@ -11,8 +11,7 @@
 
 <div align="center">
 
-| [![SAIF](https://img.shields.io/badge/SAIF-B2B%20AI%20Infrastructure-D4A843?style=for-the-badge&labelColor=0D1117)](https://saif.co.id) | [![Prodig](https://img.shields.io/badge/Prodig-B2C%20Digital%20Products-EF4444?style=for-the-badge&labelColor=0D1117)](https://prodig.id) | [![Amal Produktif](https://img.shields.io/badge/Amal%20Produktif-Nazhir%20Wakaf-16A34A?style=for-the-badge&labelColor=0D1117)](https://amalproduktif.or.id) | [![FWP](https://img.shields.io/badge/FWP-Waqf%20Network-2563EB?style=for-the-badge&labelColor=0D1117)](https://fwp.or.id) | [![ANI](https://img.shields.io/badge/ANI-Nazir%20Association-7C3AED?style=for-the-badge&labelColor=0D1117)](https://ani.or.id) |
-|:---:|:---:|:---:|:---:|:---:|
+[![SAIF](https://img.shields.io/badge/SAIF-B2B%20AI%20Infrastructure-D4A843?style=for-the-badge&labelColor=0D1117)](https://saif.co.id)&nbsp;[![Prodig](https://img.shields.io/badge/Prodig-B2C%20Digital%20Products-EF4444?style=for-the-badge&labelColor=0D1117)](https://prodig.id)&nbsp;[![Amal Produktif](https://img.shields.io/badge/Amal%20Produktif-Nazhir%20Wakaf-16A34A?style=for-the-badge&labelColor=0D1117)](https://amalproduktif.or.id)&nbsp;[![FWP](https://img.shields.io/badge/FWP-Waqf%20Network-2563EB?style=for-the-badge&labelColor=0D1117)](https://fwp.or.id)&nbsp;[![ANI](https://img.shields.io/badge/ANI-Nazir%20Association-7C3AED?style=for-the-badge&labelColor=0D1117)](https://ani.or.id)
 
 </div>
 
