@@ -1,58 +1,52 @@
-# Assalamu’alaikum, I’m Ridlo Abelian
+# Ridlo Abelian
 
-**Waqf × AI × Independent Digital Businesses**  
-Building halal, agentic systems for economic and social impact.
+**Founder-builder of Waqf × AI infrastructure and independent digital products.**
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1200&color=E6EDF3&width=760&lines=Waqf+%C3%97+AI+Infrastructure;Building+B2B+and+B2C+AI+Businesses;Agentic+Systems+for+the+Ummah)
+I design and ship practical systems across serverless applications, agentic workflows, digital waqf, and open-source developer education. My work combines product thinking, full-stack implementation, and halal-first operating principles.
 
----
+[Website](https://ridlo.id) · [SAIF](https://saif.co.id) · [LinkedIn](https://linkedin.com/in/ridloabelian)
 
-### Build · Serve · Invest · Lead
+## What I build
 
-I operate across four Cashflow Quadrants while keeping every stream halal-first and institutionally separated.
+| Area | Focus |
+| --- | --- |
+| **B2B infrastructure** | [SAIF.co.id](https://saif.co.id) — agentic operations and AI infrastructure for businesses |
+| **B2C products** | [Prodig.id](https://prodig.id) — AI-first digital products and automated fulfillment |
+| **Waqf technology** | Transparent, practical systems for productive waqf institutions |
+| **Open source** | Curated infrastructure knowledge, agent skills, and reusable workflows |
 
-- **Build:** [SAIF.co.id](https://saif.co.id) (B2B AI infrastructure) & [Prodig.id](https://prodig.id) (B2C digital products).
-- **Serve:** Content creation, paid-traffic strategy (Meta/TikTok/Google), and agentic implementation.
-- **Invest:** Sharia-compliant Indonesian equities and carefully screened digital assets.
-- **Lead:** CEO of Amal Produktif (registered waqf institution) & contributor to FWP and [ani.or.id](https://ani.or.id).
+## Selected work
 
-> **Mission:** Turn Islamic social capital into scalable, transparent, technology-enabled impact.
+- **[nazhir.id](https://github.com/ridloabelian/nazhir.id)** — Dashboard for national waqf administration and the Smart Nazhir Ecosystem 2030. `TypeScript`
+- **[waqf-chain](https://github.com/ridloabelian/waqf-chain)** — Immutable ledger and public dashboard for transparent waqf reporting. `TypeScript`
+- **[conviq](https://github.com/ridloabelian/conviq)** — Open-source live chat, email support, and omnichannel desk. `Ruby`
+- **[ads-autonomous-cli](https://github.com/ridloabelian/ads-autonomous-cli)** — Multi-agent marketing assistant for Meta Ads research and analysis. `TypeScript`
+- **[awesome-rp0-id](https://github.com/ridloabelian/awesome-rp0-id)** — Indonesian map of zero-cost tools for product validation and shipping.
+- **[awesome-meta-platform](https://github.com/ridloabelian/awesome-meta-platform)** — Open-source tools, SDKs, and MCP servers for the Meta ecosystem.
+- **[saif-skills](https://github.com/ridloabelian/saif-skills)** — Security skills for AI agents, mapped to the Google SAIF framework.
+- **[waqf-agentic-workflow](https://github.com/ridloabelian/waqf-agentic-workflow)** — Agent orchestration mapped to BWI/LSP nazhir competency schemes.
 
----
+## Technical profile
 
-### Featured Builds & Ecosystems
+**Languages:** TypeScript · Python · PHP · JavaScript · Bash<br>
+**Frontend:** React · Next.js · Astro<br>
+**Backend:** Node.js · Hono · WordPress<br>
+**Infrastructure:** Cloudflare Workers · D1 · R2 · Linux · Docker · GitHub Actions<br>
+**Data & operations:** SQLite · serverless architecture · agentic workflows · Obsidian
 
-- **[SAIF.co.id](https://saif.co.id)** — B2B scalable artificial infrastructure and agentic operations *(Cloudflare, Workers, D1, AI Gateway)*
-- **[Prodig.id](https://prodig.id)** — B2C AI-first digital products and automated mentorship *(Serverless, AI agents, digital fulfillment)*
-- **[ani.or.id](https://ani.or.id)** — National productive waqf platform & e-learning ecosystem *(WordPress, Sejoli, Cloudflare Workers/Pages)*
-- **[fwp.or.id](https://fwp.or.id)** — Forum Wakaf Produktif portal *(React, Vite, Cloudflare Pages)*
-- **[Stack Nol Rupiah](https://github.com/ridloabelian/awesome-rp0-id)** — Indonesian open-source map for zero-cost product validation *(6 Curated Kits)*
-- **[awesome-meta-platform](https://github.com/ridloabelian/awesome-meta-platform)** — Open-source tools, SDKs, and MCP servers for Meta platform *(Meta API, MCP)*
-- **[saif-skills](https://github.com/ridloabelian/saif-skills)** — Open-source SAIF security skills for AI agents *(Hermes Skills)*
-- **[waqf-agentic-workflow](https://github.com/ridloabelian/waqf-agentic-workflow)** — Agentic workflow mapped to BWI/LSP nazir schemes *(Shell, Automation)*
+## Operating principles
 
----
+- **Ship outcomes:** small, useful systems beat elaborate plans.
+- **Serverless-first:** prefer simple, observable infrastructure before operational complexity.
+- **Agent-operated:** automate repetitive work; keep humans accountable for decisions.
+- **Halal-first:** technology must serve people without compromising ethical boundaries.
+- **Open knowledge:** document what helps other builders move faster.
 
-### Operating Stack & Principles
+## Roles and ecosystem
 
-**Core Stack:** TypeScript · Python · PHP · Astro · Hono · React · Bash · Cloudflare · Linux · Docker · SQLite · GitHub Actions · Obsidian
+- Founder — [SAIF.co.id](https://saif.co.id)
+- CEO — [Amal Produktif](https://amalproduktif.or.id)
+- Head of Innovation — [Indonesian Nazhir Association](https://ani.or.id)
+- Contributor — [Forum Wakaf Produktif](https://fwp.or.id)
 
-- **Halal-first:** Speed matters, but barakah matters more.
-- **Agents over manual work:** Repetitive digital work should be delegated.
-- **Serverless-first:** Prefer Cloudflare Workers/D1/R2 before VPS complexity.
-- **Memory compounds:** Every useful insight should become reusable knowledge.
-- **Build boring systems:** Fewer moving parts. More shipped outcomes.
-
----
-
-### Activity Log
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ridloabelian/ridloabelian/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ridloabelian/ridloabelian/output/github-contribution-grid-snake.svg" />
-  <img alt="GitHub contribution graph" src="https://raw.githubusercontent.com/ridloabelian/ridloabelian/output/github-contribution-grid-snake.svg" width="100%" />
-</picture>
-
-[Website](https://ridlo.id) · [SAIF](https://saif.co.id) · [Amal Produktif](https://amalproduktif.or.id) · [FWP](https://fwp.or.id) · [ANI](https://ani.or.id) · [LinkedIn](https://linkedin.com/in/ridloabelian)
-
-> *“Waqf is not just an asset. It is a legacy of civilization.”*
+> **Serverless-first. Agent-operated. Human-governed.**
