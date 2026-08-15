@@ -4,7 +4,7 @@
 
 I design and ship practical systems across serverless applications, agentic workflows, digital waqf, and open-source developer education. My work combines product thinking, full-stack implementation, and halal-first operating principles.
 
-[Website](https://ridlo.id) · [SAIF](https://saif.co.id) · [LinkedIn](https://linkedin.com/in/ridloabelian)
+[Website](https://ridlo.id) · [SAIF](https://saif.co.id) · [LinkedIn](https://linkedin.com/in/ridloabelian) · [CV](cv.md)
 
 ## What I build
 
