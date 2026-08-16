@@ -11,9 +11,9 @@ Founder-builder shipping production systems end-to-end: frontend, backend APIs, 
 
 - **Languages:** TypeScript, JavaScript, Python, PHP, Bash
 - **Frontend:** React, Next.js, Astro
-- **Backend:** Node.js, Hono, REST API design, authentication, WordPress
+- **Backend:** Node.js, Hono, REST API design, authentication
 - **Data:** PostgreSQL, Prisma, SQLite, Cloudflare D1, Redis
-- **Infra:** Cloudflare Workers/Pages/R2, Docker, Linux VPS, Nginx, GitHub Actions, GHCR
+- **Infra:** Cloudflare Workers/Pages/R2, Docker, Kubernetes, Linux VPS, Nginx, GitHub Actions, GHCR
 - **AI ops:** multi-agent orchestration (Hermes Agent), LLM gateways, prompt/workflow design
 - **Web3:** smart-contract literacy, hash-chained ledger design, chain integration (learning depth: production-curious, not yet shipped mainnet contracts)
 
@@ -24,7 +24,7 @@ Founder-builder shipping production systems end-to-end: frontend, backend APIs, 
 - **conviq** — open-source omnichannel support desk (live chat + email). [repo](https://github.com/ridloabelian/conviq)
 - **ads-autonomous-cli** — multi-agent marketing assistant for Meta Ads research. [repo](https://github.com/ridloabelian/ads-autonomous-cli)
 - **saif-skills** — open-source security skills for AI agents (Google SAIF mapping). [repo](https://github.com/ridloabelian/saif-skills)
-- **ani.or.id / fwp.or.id** — production portals: WordPress + Sejoli LMS, React/Vite on Cloudflare Pages.
+- **ani.or.id / fwp.or.id** — production portals: LMS & membership, React/Vite on Cloudflare Pages.
 
 ## Roles
 

@@ -30,8 +30,8 @@ I design and ship practical systems across serverless applications, agentic work
 
 **Languages:** TypeScript · Python · PHP · JavaScript · Bash<br>
 **Frontend:** React · Next.js · Astro<br>
-**Backend:** Node.js · Hono · WordPress<br>
-**Infrastructure:** Cloudflare Workers · D1 · R2 · Linux · Docker · GitHub Actions<br>
+**Backend:** Node.js · Hono<br>
+**Infrastructure:** Cloudflare Workers · D1 · R2 · Linux · Docker · Kubernetes · GitHub Actions<br>
 **Data & operations:** SQLite · serverless architecture · agentic workflows · Obsidian
 
 ## Operating principles
