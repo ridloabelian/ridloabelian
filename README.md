@@ -4,7 +4,7 @@
 
 I design and ship practical systems across serverless applications, agentic workflows, digital waqf, and open-source developer education. My work combines product thinking, full-stack implementation, and halal-first operating principles.
 
-[Website](https://ridlo.id) · [SAIF](https://saif.co.id) · [LinkedIn](https://linkedin.com/in/ridloabelian) · [CV](cv.md)
+[Website](https://ridlo.id) · [SAIF](https://saif.co.id) · [LinkedIn](https://linkedin.com/in/ridloabelian) · [Curated Lists](https://github.com/stars/ridloabelian/lists) · [CV](cv.md)
 
 ## What I build
 
@@ -13,26 +13,37 @@ I design and ship practical systems across serverless applications, agentic work
 | **B2B infrastructure** | [SAIF.co.id](https://saif.co.id) — agentic operations and AI infrastructure for businesses |
 | **B2C products** | [Prodig.id](https://prodig.id) — AI-first digital products and automated fulfillment |
 | **Waqf technology** | Transparent, practical systems for productive waqf institutions |
-| **Open source** | Curated infrastructure knowledge, agent skills, and reusable workflows |
+| **Open source & research** | Curated infrastructure knowledge, [12 Star Lists (560 repos)](https://github.com/stars/ridloabelian/lists), agent skills, and reusable workflows |
 
 ## Selected work
 
-- **[nazhir.id](https://github.com/ridloabelian/nazhir.id)** — Dashboard for national waqf administration and the Smart Nazhir Ecosystem 2030. `TypeScript`
-- **[waqf-chain](https://github.com/ridloabelian/waqf-chain)** — Immutable ledger and public dashboard for transparent waqf reporting. `TypeScript`
-- **[conviq](https://github.com/ridloabelian/conviq)** — Open-source live chat, email support, and omnichannel desk. `Ruby`
-- **[ads-autonomous-cli](https://github.com/ridloabelian/ads-autonomous-cli)** — Multi-agent marketing assistant for Meta Ads research and analysis. `TypeScript`
-- **[awesome-rp0-id](https://github.com/ridloabelian/awesome-rp0-id)** — Indonesian map of zero-cost tools for product validation and shipping.
-- **[awesome-meta-platform](https://github.com/ridloabelian/awesome-meta-platform)** — Open-source tools, SDKs, and MCP servers for the Meta ecosystem.
-- **[saif-skills](https://github.com/ridloabelian/saif-skills)** — Security skills for AI agents, mapped to the Google SAIF framework.
-- **[waqf-agentic-workflow](https://github.com/ridloabelian/waqf-agentic-workflow)** — Agent orchestration mapped to BWI/LSP nazhir competency schemes.
+- **[nazhir.id](https://github.com/ridloabelian/nazhir.id)** ([Live](https://nazhir.id)) — Dashboard for national waqf administration and the Smart Nazhir Ecosystem 2030. `TypeScript`
+- **[ads-autonomous-cli](https://github.com/ridloabelian/ads-autonomous-cli)** ([Dashboard](https://main.ads-dashboard-4ce.pages.dev)) — Autonomous multi-agent marketing assistant scraping Meta Ads Library deployed on Cloudflare edge. `TypeScript`
+- **[waqf-chain](https://github.com/ridloabelian/waqf-chain)** — Immutable ledger and public dashboard for transparent, verifiable waqf reporting. `TypeScript`
+- **[conviq](https://github.com/ridloabelian/conviq)** ([Website](https://conviq-website.pages.dev)) — Open-source live chat, email support, and omnichannel customer desk. `Ruby`
+- **[saif-skills](https://github.com/ridloabelian/saif-skills)** — Security skills for AI agents mapped directly to the Google SAIF framework. `Markdown`
+- **[awesome-rp0-id](https://github.com/ridloabelian/awesome-rp0-id)** — Master index of zero-cost tools and architecture recipes for Indonesian indie hackers.
+- **[awesome-meta-platform](https://github.com/ridloabelian/awesome-meta-platform)** — Open-source tools, SDKs, and MCP servers for the Meta developer ecosystem.
+- **[waqf-agentic-workflow](https://github.com/ridloabelian/waqf-agentic-workflow)** — Distributed AI agent orchestration mapped to BWI/LSP nazhir competency standards. `Shell`
+
+## Curated research & star directories
+
+I maintain curated open-source tooling, agent frameworks, and infrastructure patterns across **[12 Curated Star Lists (560+ Repositories)](https://github.com/stars/ridloabelian/lists)**:
+
+- **[AI Agents & Coding Assistants](https://github.com/stars/ridloabelian/lists/ai-agents-coding-assistants)** (`182` repos) — Agentic coding, Claude Code, MCP servers, OpenCode, and skill registries.
+- **[LLMs, Local Inference & RAG](https://github.com/stars/ridloabelian/lists/llms-local-inference-rag)** (`96` repos) — Inference engines (DS4, Colibri, Ollama, vLLM), quantization, and vector search.
+- **[Creative & Multimodal AI](https://github.com/stars/ridloabelian/lists/creative-multimodal-ai)** (`78` repos) — Text-to-Video, Whisper/TTS, audio models, and OCR engines (Surya).
+- **[Cybersecurity, OSINT & Red Team](https://github.com/stars/ridloabelian/lists/cybersecurity-osint-red-team)** (`52` repos) — Autonomous pentesting, jailbreaks, and recon frameworks.
+- **[Business, Fintech & Career](https://github.com/stars/ridloabelian/lists/business-fintech-career)** (`33` repos) — Indonesian payment SDKs, Odoo ERP, and automated trading.
+- **[DevOps, Cloud & Self-Hosted](https://github.com/stars/ridloabelian/lists/devops-cloud-self-hosted)** (`26` repos) — Docker, WireGuard/Tailscale, and edge deployment recipes.
 
 ## Technical profile
 
-**Languages:** TypeScript · Python · PHP · JavaScript · Bash<br>
-**Frontend:** React · Next.js · Astro<br>
-**Backend:** Node.js · Hono<br>
+**Languages:** TypeScript · Python · PHP · JavaScript · Bash · Ruby<br>
+**Frontend:** React · Next.js · Astro · Tailwind CSS<br>
+**Backend:** Node.js · Hono · Serverless<br>
 **Infrastructure:** Cloudflare Workers · D1 · R2 · Linux · Docker · Kubernetes · GitHub Actions<br>
-**Data & operations:** SQLite · serverless architecture · agentic workflows · Obsidian
+**Data & operations:** SQLite · Edge Databases · Agentic Workflows · Obsidian
 
 ## Operating principles
 
