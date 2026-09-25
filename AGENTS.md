@@ -9,18 +9,19 @@ GitHub profile README untuk Ridlo Abelian — CEO of Amal Produktif, Founder of 
 ## Tech Stack
 
 - **Format:** GitHub Markdown
-- **Tools:** GitHub Readme Stats, Streak Stats, Activity Graph
+- **Style:** Clean editorial portfolio, high contrast, typography-focused (no badge/widget clutter)
 
 ## Key Features
 
 - Professional bio and current projects
-- Featured project categorization (AI & Automation, Waqf & Islamic Tech, SaaS & Marketplace, Developer Tools)
-- Tech stack badges (Astro, Cloudflare, Laravel, Firebase, Python, JS, TS, Tailwind, Ruby, Claude AI)
-- Credentials (Electrical Engineering, Islamic Finance, Certified Waqf Competence, Certified Technical Analyst)
-- Social links (Instagram, LinkedIn, Website, Email)
+- Featured project categorization (Waqf & NPO ERP, AI & Automation, SaaS, Developer Tools)
+- Comprehensive technical stack (Python, Odoo 18/19 OCA, TypeScript, React, Next.js, Cloudflare, PostgreSQL 17, Docker Compose)
+- Curated Star Lists & Research Directories
+- Roles & Ecosystem (SAIF, Amal Produktif, ANI, FWP)
+- Operating principles
 
 ## Key Conventions
 
 - GitHub-flavored Markdown
-- Dynamic badges via shields.io
-- Stats cards via github-readme-stats
+- Clean typographic links without badge clutter
+- Direct links to live deployments and source repositories

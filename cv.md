@@ -9,16 +9,18 @@ Founder-builder shipping production systems end-to-end: frontend, backend APIs, 
 
 ## Core stack
 
-- **Languages:** TypeScript, JavaScript, Python, PHP, Bash
-- **Frontend:** React, Next.js, Astro
-- **Backend:** Node.js, Hono, REST API design, authentication
-- **Data:** PostgreSQL, Prisma, SQLite, Cloudflare D1, Redis
-- **Infra:** Cloudflare Workers/Pages/R2, Docker, Kubernetes, Linux VPS, Nginx, GitHub Actions, GHCR
-- **AI ops:** multi-agent orchestration (Hermes Agent), LLM gateways, prompt/workflow design
+- **Languages:** Python, TypeScript, JavaScript, PHP, Bash, Ruby
+- **ERP & Backend:** Odoo 18 & 19 (OCA standard & compliance), Node.js, Hono, REST API design, authentication
+- **Frontend:** React, Next.js, Astro, Tailwind CSS
+- **Data:** PostgreSQL 17, Prisma, SQLite, Cloudflare D1, Redis
+- **Infra:** Docker Compose, Caddy 2, Cloudflare Workers/Pages/R2, Linux VPS, Nginx, Kubernetes, GitHub Actions, GHCR
+- **AI ops:** multi-agent orchestration (Hermes Agent), LLM gateways, prompt/workflow design, Google SAIF mapping
 - **Web3:** smart-contract literacy, hash-chained ledger design, chain integration (learning depth: production-curious, not yet shipped mainnet contracts)
 
 ## Selected work
 
+- **waqf-odoo-modules & zakat-odoo-modules** — Sharia ERP suites for Odoo 18 & 19 (OCA standard). Implements Indonesian non-profit regulatory compliance: PSAK 412/112 (Wakaf), PSAK 109 (Zakat), 8 Asnaf benefit distribution, BAZNAS Had Kifayah, and SiMBA integration. [waqf repo](https://github.com/ridloabelian/waqf-odoo-modules) · [zakat repo](https://github.com/ridloabelian/zakat-odoo-modules)
+- **npo-odoo-docker** — Production turnkey 1-click Docker orchestration for Odoo 18/19 non-profit stacks with Caddy 2 Auto-SSL, PostgreSQL 17, and automated disaster-recovery backups. [repo](https://github.com/ridloabelian/npo-odoo-docker)
 - **waqf-chain** — immutable ledger + public transparency dashboard for waqf institutions. pnpm monorepo: Hono API, Next.js 14 dashboard, Prisma/PostgreSQL, Redis, Docker, GitHub Actions deploy to VPS. [repo](https://github.com/ridloabelian/waqf-chain)
 - **nazhir.id** — national waqf administration dashboard (Smart Nazhir Ecosystem 2030). [repo](https://github.com/ridloabelian/nazhir.id)
 - **conviq** — open-source omnichannel support desk (live chat + email). [repo](https://github.com/ridloabelian/conviq)
