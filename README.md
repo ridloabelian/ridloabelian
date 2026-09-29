@@ -13,7 +13,7 @@ I design and ship practical systems across serverless applications, agentic work
 | **B2B infrastructure** | [SAIF.co.id](https://saif.co.id) — agentic operations and AI infrastructure for businesses |
 | **B2C products** | [Prodig.id](https://prodig.id) — AI-first digital products and automated fulfillment |
 | **Waqf & NPO ERP** | Open-source Odoo 18/19 suites & transparent systems for productive waqf and zakat institutions |
-| **Open source & research** | Curated infrastructure knowledge, [12 Star Lists (560 repos)](https://github.com/ridloabelian?tab=stars), agent skills, and reusable workflows |
+| **Open source & research** | Curated infrastructure knowledge, [12 Star Lists (559 repos)](https://github.com/ridloabelian?tab=stars), agent skills, and reusable workflows |
 
 ## Selected work
 
