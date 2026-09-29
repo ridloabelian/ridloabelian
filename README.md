@@ -4,7 +4,7 @@
 
 I design and ship practical systems across serverless applications, agentic workflows, digital waqf, and open-source developer education. My work combines product thinking, full-stack implementation, and halal-first operating principles.
 
-[Website](https://ridlo.id) · [SAIF](https://saif.co.id) · [LinkedIn](https://linkedin.com/in/ridloabelian) · [Curated Lists](https://github.com/stars/ridloabelian/lists) · [CV](cv.md)
+[Website](https://ridlo.id) · [SAIF](https://saif.co.id) · [LinkedIn](https://linkedin.com/in/ridloabelian) · [Curated Lists](https://github.com/ridloabelian?tab=stars) · [CV](cv.md)
 
 ## What I build
 
@@ -13,7 +13,7 @@ I design and ship practical systems across serverless applications, agentic work
 | **B2B infrastructure** | [SAIF.co.id](https://saif.co.id) — agentic operations and AI infrastructure for businesses |
 | **B2C products** | [Prodig.id](https://prodig.id) — AI-first digital products and automated fulfillment |
 | **Waqf & NPO ERP** | Open-source Odoo 18/19 suites & transparent systems for productive waqf and zakat institutions |
-| **Open source & research** | Curated infrastructure knowledge, [12 Star Lists (560 repos)](https://github.com/stars/ridloabelian/lists), agent skills, and reusable workflows |
+| **Open source & research** | Curated infrastructure knowledge, [12 Star Lists (560 repos)](https://github.com/ridloabelian?tab=stars), agent skills, and reusable workflows |
 
 ## Selected work
 
@@ -32,7 +32,7 @@ I design and ship practical systems across serverless applications, agentic work
 
 ## Curated research & star directories
 
-I maintain curated open-source tooling, agent frameworks, and infrastructure patterns across **[12 Curated Star Lists (560+ Repositories)](https://github.com/stars/ridloabelian/lists)**:
+I maintain curated open-source tooling, agent frameworks, and infrastructure patterns across **[12 Curated Star Lists (560+ Repositories)](https://github.com/ridloabelian?tab=stars)**:
 
 - **[AI Agents & Coding Assistants](https://github.com/stars/ridloabelian/lists/ai-agents-coding-assistants)** (`182` repos) — Agentic coding, Claude Code, MCP servers, OpenCode, and skill registries.
 - **[LLMs, Local Inference & RAG](https://github.com/stars/ridloabelian/lists/llms-local-inference-rag)** (`96` repos) — Inference engines (DS4, Colibri, Ollama, vLLM), quantization, and vector search.
