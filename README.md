@@ -19,23 +19,25 @@ I design and ship practical systems across serverless applications, agentic work
 
 - **[waqf-odoo-modules](https://github.com/ridloabelian/waqf-odoo-modules)** — Enterprise Odoo 19/18 suite for Indonesian Nazhir Wakaf: PSAK 412/112 accounting, AIW/APAIW governance, and productive waqf benefit distribution. `Python`
 - **[zakat-odoo-modules](https://github.com/ridloabelian/zakat-odoo-modules)** — ERP system for Lembaga Amil Zakat (LAZ) on Odoo 18/19 (OCA standard): PSAK 109 ZIS accounting, 8 Asnaf distribution, Had Kifayah BAZNAS RI, & SiMBA integration. `Python`
+- **[lks-odoo-modules](https://github.com/ridloabelian/lks-odoo-modules)** — Social Welfare Institution (LKS) ERP on Odoo 18/19: Kemensos 26 PPKS categories, BALAKS accreditation, & ISAK 35. `Python`
+- **[npo-core-modules](https://github.com/ridloabelian/npo-core-modules)** — Universal NPO foundation for Odoo 18/19: NIK/KK Kemendagri population master, multi-criteria poverty assessment, & aid distribution tracking. `Python`
 - **[npo-odoo-docker](https://github.com/ridloabelian/npo-odoo-docker)** — Turnkey 1-click Docker deployment for Odoo 19 & 18 LTS for Indonesian non-profits with Caddy 2 Auto-SSL, PostgreSQL 17, and automated disaster recovery. `Docker` · `Python`
+- **[waqf-odoo-docker](https://github.com/ridloabelian/waqf-odoo-docker)** — Turnkey Docker Compose for Odoo ERP Wakaf (PSAK 412/112 & LSP BWI) in collaboration with Amal Produktif, FWP, and ANI. `Docker`
 - **[nazhir.id](https://github.com/ridloabelian/nazhir.id)** ([Live](https://nazhir.id)) — Dashboard for national waqf administration and the Smart Nazhir Ecosystem 2030. `TypeScript`
 - **[ads-autonomous-cli](https://github.com/ridloabelian/ads-autonomous-cli)** ([Dashboard](https://main.ads-dashboard-4ce.pages.dev)) — Autonomous multi-agent marketing assistant scraping Meta Ads Library deployed on Cloudflare edge. `TypeScript`
 - **[waqf-chain](https://github.com/ridloabelian/waqf-chain)** — Immutable ledger and public dashboard for transparent, verifiable waqf reporting. `TypeScript`
 - **[conviq](https://github.com/ridloabelian/conviq)** ([Website](https://conviq-website.pages.dev)) — Open-source live chat, email support, and omnichannel customer desk. `Ruby`
 - **[saif-skills](https://github.com/ridloabelian/saif-skills)** — Security skills for AI agents mapped directly to the Google SAIF framework. `Markdown`
-- **[lks-odoo-modules](https://github.com/ridloabelian/lks-odoo-modules)** — Social Welfare Institution (LKS) ERP on Odoo 18/19: Kemensos 26 PPKS categories, BALAKS accreditation, & ISAK 35. `Python`
 - **[waqf-agentic-workflow](https://github.com/ridloabelian/waqf-agentic-workflow)** — Distributed AI agent orchestration mapped to BWI/LSP nazhir competency standards. `Shell`
 - **[awesome-rp0-id](https://github.com/ridloabelian/awesome-rp0-id)** — Master index of zero-cost tools and architecture recipes for Indonesian indie hackers.
 - **[awesome-meta-platform](https://github.com/ridloabelian/awesome-meta-platform)** — Open-source tools, SDKs, and MCP servers for the Meta developer ecosystem.
 
 ## Curated research & star directories
 
-I maintain curated open-source tooling, agent frameworks, and infrastructure patterns across **[12 Curated Star Lists (560+ Repositories)](https://github.com/ridloabelian?tab=stars)**:
+I maintain curated open-source tooling, agent frameworks, and infrastructure patterns across **[12 Curated Star Lists (559 Repositories)](https://github.com/ridloabelian?tab=stars)**:
 
 - **[AI Agents & Coding Assistants](https://github.com/stars/ridloabelian/lists/ai-agents-coding-assistants)** (`182` repos) — Agentic coding, Claude Code, MCP servers, OpenCode, and skill registries.
-- **[LLMs, Local Inference & RAG](https://github.com/stars/ridloabelian/lists/llms-local-inference-rag)** (`96` repos) — Inference engines (DS4, Colibri, Ollama, vLLM), quantization, and vector search.
+- **[LLMs, Local Inference & RAG](https://github.com/stars/ridloabelian/lists/llms-local-inference-rag)** (`95` repos) — Inference engines (DS4, Colibri, Ollama, vLLM), quantization, and vector search.
 - **[Creative & Multimodal AI](https://github.com/stars/ridloabelian/lists/creative-multimodal-ai)** (`78` repos) — Text-to-Video, Whisper/TTS, audio models, and OCR engines (Surya).
 - **[Cybersecurity, OSINT & Red Team](https://github.com/stars/ridloabelian/lists/cybersecurity-osint-red-team)** (`52` repos) — Autonomous pentesting, jailbreaks, and recon frameworks.
 - **[Business, Fintech & Career](https://github.com/stars/ridloabelian/lists/business-fintech-career)** (`33` repos) — Indonesian payment SDKs, Odoo ERP, and automated trading.
