@@ -9,19 +9,20 @@ GitHub profile README untuk Ridlo Abelian — CEO of Amal Produktif, Founder of 
 ## Tech Stack
 
 - **Format:** GitHub Markdown
-- **Style:** Clean editorial portfolio, high contrast, typography-focused (no badge/widget clutter)
+- **Style:** Modern tech & visual portfolio (dynamic typing banner, GitHub stats & streak, skill icons, structured showcase tables, and contribution snake)
 
 ## Key Features
 
-- Professional bio and current projects
-- Featured project categorization (Waqf & NPO ERP, AI & Automation, SaaS, Developer Tools)
-- Comprehensive technical stack (Python, Odoo 18/19 OCA, TypeScript, React, Next.js, Cloudflare, PostgreSQL 17, Docker Compose)
-- Curated Star Lists & Research Directories
-- Roles & Ecosystem (SAIF, Amal Produktif, ANI, FWP)
-- Operating principles
+- Professional bio and current leadership roles (SAIF, Amal Produktif, ANI, FWP)
+- Dynamic GitHub activity & metrics (Stats, Streak, Top Languages)
+- Visual tech stack strip (SkillIcons) and categorized technology tables
+- Categorized featured projects (Waqf & NPO ERP Odoo suite, Agentic AI & Edge, Web Platforms & Ledgers, Stack Nol Rupiah)
+- Curated Star Lists & Research Directories (12 lists / 559 repos)
+- Animated GitHub Contribution Snake graph
+- Core operating principles and mission quote
 
 ## Key Conventions
 
 - GitHub-flavored Markdown
-- Clean typographic links without badge clutter
+- Responsive dark/light theme assets (using `<picture>` for snake and GitHub Dark theme for stats)
 - Direct links to live deployments and source repositories
