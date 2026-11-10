@@ -28,7 +28,7 @@ I design and ship production systems across **serverless edge computing**, **aut
 | :--- | :--- | :--- |
 | 🏢 **One-Person Company (OPC)** | **Founder** · [SAIF.co.id](https://saif.co.id) | AI-native One-Person Company shipping autonomous agentic operations, edge LLM gateways, & digital products |
 | 🕌 **Productive Waqf** | **CEO** · [Amal Produktif](https://amalproduktif.or.id) | Registered Indonesian *Nazhir Wakaf* managing productive endowments & digital transparency |
-| 🏛️ **National Ecosystem** | **Head of Innovation** · [ANI](https://ani.or.id) & [FWP](https://fwp.or.id) | Smart Nazhir Ecosystem 2030, regulatory ERP standards (PSAK 412/109, LSP BWI), & public ledgers |
+| 🏛️ **National Ecosystem** | **Head of Innovation** · [ANI](https://ani.or.id) & [FWP](https://fwp.or.id) | Smart Nazhir Ecosystem 2030, waqf regulatory standards (PSAK 412/112, LSP BWI), & public ledgers |
 | 🌍 **Open Source & Research** | **Creator & Curator** · [GitHub](https://github.com/ridloabelian) | Open-source Odoo 18–20 NPO suites, *"Stack Nol Rupiah"* blueprints, & [12 Star Lists (973★)](https://github.com/ridloabelian?tab=stars) |
 
 ---
