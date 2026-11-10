@@ -4,13 +4,13 @@
 
   <p>
     <a href="https://readme-typing-svg.demolab.com">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1200&color=10B981&center=true&vCenter=true&width=720&lines=Founder+%40+SAIF.co.id+%E2%80%94+Edge+AI+%26+Agentic+Ops;CEO+%40+Amal+Produktif+%E2%80%94+Productive+Waqf+Institution;Head+of+Innovation+%40+Indonesian+Nazhir+Association+(ANI);Creator+of+Open-Source+Odoo+18%E2%80%9320+Waqf%2C+Zakat+%26+NPO+Suites;Serverless-first+%C2%B7+Agent-operated+%C2%B7+Human-governed+%C2%B7+Halal-first" alt="Typing SVG" />
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1200&color=10B981&center=true&vCenter=true&width=720&lines=Founder+%40+SAIF.co.id+%E2%80%94+AI-Native+One-Person+Company;CEO+%40+Amal+Produktif+%E2%80%94+Productive+Waqf+Institution;Head+of+Innovation+%40+Indonesian+Nazhir+Association+(ANI);Creator+of+Open-Source+Odoo+18%E2%80%9320+Waqf%2C+Zakat+%26+NPO+Suites;Serverless-first+%C2%B7+Agent-operated+%C2%B7+Human-governed+%C2%B7+Halal-first" alt="Typing SVG" />
     </a>
   </p>
 
   <p>
     <a href="https://ridlo.id"><img src="https://img.shields.io/badge/Website-ridlo.id-10b981?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" /></a>
-    <a href="https://saif.co.id"><img src="https://img.shields.io/badge/SAIF-saif.co.id-0f172a?style=for-the-badge&logo=cloudflare&logoColor=white" alt="SAIF" /></a>
+    <a href="https://saif.co.id"><img src="https://img.shields.io/badge/SAIF.co.id-One--Person_Company-0f172a?style=for-the-badge&logo=cloudflare&logoColor=white" alt="SAIF.co.id" /></a>
     <a href="https://amalproduktif.or.id"><img src="https://img.shields.io/badge/Amal_Produktif-Nazhir_Wakaf-047857?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0xMiAyTDkgNmg2bC0zLTR6bTAgNWMtMy44NyAwLTcgMy4xMy03IDd2OGg1di01YzAtMS4xLjktMiAyLTJzMiAuOSAyIDJ2NWg1di04YzAtMy44Ny0zLjEzLTctNy03ek0yIDEydjEwaDJWMTJIMnptMTggMHYxMGgyVjEyaC0yeiIvPjwvc3ZnPg==" alt="Amal Produktif" /></a>
     <a href="https://linkedin.com/in/ridloabelian"><img src="https://img.shields.io/badge/LinkedIn-ridloabelian-0a66c2?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0yMC40NDcgMjAuNDUyaC0zLjU1NHYtNS41NjljMC0xLjMyOC0uMDI3LTMuMDM3LTEuODUyLTMuMDM3LTEuODUzIDAtMi4xMzYgMS40NDUtMi4xMzYgMi45Mzl2NS42NjdIOS4zNTFWOWgzLjQxNHYxLjU2MWguMDQ2Yy40NzctLjkgMS42MzctMS44NSAzLjM3LTEuODUgMy42MDEgMCA0LjI2NyAyLjM3IDQuMjY3IDUuNDU1djYuMjg2ek01LjMzNyA3LjQzM2EyLjA2MiAyLjA2MiAwIDAxLTIuMDYzLTIuMDY1IDIuMDY0IDIuMDY0IDAgMTEyLjA2MyAyLjA2NXptMS43ODIgMTMuMDE5SDMuNTU1VjloMy41NjR2MTEuNDUyek0yMi4yMjUgMEgxLjc3MUMuNzkyIDAgMCAuNzc0IDAgMS43Mjl2MjAuNTQyQzAgMjMuMjI3Ljc5MiAyNCAxLjc3MSAyNGgyMC40NTFDMjMuMiAyNCAyNCAyMy4yMjcgMjQgMjIuMjcxVjEuNzI5QzI0IC43NzQgMjMuMiAwIDIyLjIyMiAwaC4wMDN6Ii8+PC9zdmc+" alt="LinkedIn" /></a>
     <a href="https://github.com/ridloabelian?tab=stars"><img src="https://img.shields.io/badge/Star_Lists-12_Lists_%C2%B7_973%E2%98%85-d97706?style=for-the-badge&logo=github&logoColor=white" alt="Curated Star Lists" /></a>
@@ -26,7 +26,7 @@ I design and ship production systems across **serverless edge computing**, **aut
 
 | Pillar | Role & Organization | Focus & Impact |
 | :--- | :--- | :--- |
-| 🏢 **AI & Edge Infrastructure** | **Founder** · [SAIF.co.id](https://saif.co.id) | Edge-native LLM gateways, multi-agent orchestration, and Google SAIF security tooling |
+| 🏢 **One-Person Company (OPC)** | **Founder** · [SAIF.co.id](https://saif.co.id) | AI-native One-Person Company shipping autonomous agentic operations, edge LLM gateways, & digital products |
 | 🕌 **Productive Waqf** | **CEO** · [Amal Produktif](https://amalproduktif.or.id) | Registered Indonesian *Nazhir Wakaf* managing productive endowments & digital transparency |
 | 🏛️ **National Ecosystem** | **Head of Innovation** · [ANI](https://ani.or.id) & [FWP](https://fwp.or.id) | Smart Nazhir Ecosystem 2030, regulatory ERP standards (PSAK 412/109, LSP BWI), & public ledgers |
 | 🌍 **Open Source & Research** | **Creator & Curator** · [GitHub](https://github.com/ridloabelian) | Open-source Odoo 18–20 NPO suites, *"Stack Nol Rupiah"* blueprints, & [12 Star Lists (973★)](https://github.com/ridloabelian?tab=stars) |

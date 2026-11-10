@@ -4,7 +4,7 @@ GitHub Profile README.
 
 ## Purpose
 
-GitHub profile README untuk Ridlo Abelian — CEO of Amal Produktif, Founder of SAIF Digital Holdings.
+GitHub profile README untuk Ridlo Abelian — CEO of Amal Produktif, Founder of SAIF.co.id (One-Person Company).
 
 ## Tech Stack
 

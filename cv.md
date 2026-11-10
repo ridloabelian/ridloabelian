@@ -31,7 +31,7 @@ Founder-builder shipping production systems end-to-end: frontend, backend APIs, 
 
 ## Roles
 
-- Founder — [SAIF.co.id](https://saif.co.id): B2B AI infrastructure & agentic operations
+- Founder — [SAIF.co.id](https://saif.co.id): AI-native One-Person Company (autonomous agentic operations & edge AI infrastructure)
 - CEO — Amal Produktif: registered waqf institution
 - Head of Innovation — Indonesian Nazhir Association
 
