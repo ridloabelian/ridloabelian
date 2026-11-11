@@ -7,3 +7,4 @@
 
 # Ignored local cache
 .cache/
+*.tmp
