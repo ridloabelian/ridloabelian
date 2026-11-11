@@ -4,3 +4,6 @@
 .env.production
 .env.development
 .envrc
+
+# Ignored local cache
+.cache/
