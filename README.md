@@ -188,3 +188,5 @@ I actively curate open-source tooling, agent frameworks, and infrastructure patt
   <p><i>“Waqf is not just an asset. It is a legacy of civilization.”</i></p>
   <sub><b>Serverless-first · Agent-operated · Human-governed · Halal-first</b></sub>
 </div>
+
+<!-- profile-metadata: verified -->
