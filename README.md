@@ -4,16 +4,16 @@
 
   <p>
     <a href="https://readme-typing-svg.demolab.com">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1200&color=10B981&center=true&vCenter=true&width=720&lines=Founder+%40+SAIF.co.id+%E2%80%94+AI-Native+One-Person+Company;CEO+%40+Amal+Produktif+%E2%80%94+Productive+Waqf+Institution;Head+of+Innovation+%40+Indonesian+Nazhir+Association+(ANI);Creator+of+Open-Source+Odoo+18%E2%80%9320+Waqf%2C+Zakat+%26+NPO+Suites;Serverless-first+%C2%B7+Agent-operated+%C2%B7+Human-governed+%C2%B7+Halal-first" alt="Typing SVG" />
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1200&color=10B981&center=true&vCenter=true&width=720&lines=Founder+%40+SAIF+%E2%80%94+AI-Native+One-Person+Company;CEO+%40+Amal+Produktif+%E2%80%94+Productive+Waqf+Institution;Head+of+Innovation+%40+Indonesian+Nazhir+Association+(ANI);Creator+of+Open-Source+Odoo+18%E2%80%9320+Waqf%2C+Zakat+%26+NPO+Suites;Serverless-first+%C2%B7+Agent-operated+%C2%B7+Human-governed+%C2%B7+Halal-first" alt="Typing SVG" />
     </a>
   </p>
 
   <p>
     <a href="https://ridlo.id"><img src="https://img.shields.io/badge/Website-ridlo.id-10b981?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" /></a>
-    <a href="https://saif.co.id"><img src="https://img.shields.io/badge/SAIF.co.id-One--Person_Company-0f172a?style=for-the-badge&logo=cloudflare&logoColor=white" alt="SAIF.co.id" /></a>
+    <a href="https://saif.co.id"><img src="https://img.shields.io/badge/SAIF-One--Person_Company-0f172a?style=for-the-badge&logo=cloudflare&logoColor=white" alt="SAIF" /></a>
     <a href="https://amalproduktif.or.id"><img src="https://img.shields.io/badge/Amal_Produktif-Nazhir_Wakaf-047857?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0xMiAyTDkgNmg2bC0zLTR6bTAgNWMtMy44NyAwLTcgMy4xMy03IDd2OGg1di01YzAtMS4xLjktMiAyLTJzMiAuOSAyIDJ2NWg1di04YzAtMy44Ny0zLjEzLTctNy03ek0yIDEydjEwaDJWMTJIMnptMTggMHYxMGgyVjEyaC0yeiIvPjwvc3ZnPg==" alt="Amal Produktif" /></a>
     <a href="https://linkedin.com/in/ridloabelian"><img src="https://img.shields.io/badge/LinkedIn-ridloabelian-0a66c2?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0yMC40NDcgMjAuNDUyaC0zLjU1NHYtNS41NjljMC0xLjMyOC0uMDI3LTMuMDM3LTEuODUyLTMuMDM3LTEuODUzIDAtMi4xMzYgMS40NDUtMi4xMzYgMi45Mzl2NS42NjdIOS4zNTFWOWgzLjQxNHYxLjU2MWguMDQ2Yy40NzctLjkgMS42MzctMS44NSAzLjM3LTEuODUgMy42MDEgMCA0LjI2NyAyLjM3IDQuMjY3IDUuNDU1djYuMjg2ek01LjMzNyA3LjQzM2EyLjA2MiAyLjA2MiAwIDAxLTIuMDYzLTIuMDY1IDIuMDY0IDIuMDY0IDAgMTEyLjA2MyAyLjA2NXptMS43ODIgMTMuMDE5SDMuNTU1VjloMy41NjR2MTEuNDUyek0yMi4yMjUgMEgxLjc3MUMuNzkyIDAgMCAuNzc0IDAgMS43Mjl2MjAuNTQyQzAgMjMuMjI3Ljc5MiAyNCAxLjc3MSAyNGgyMC40NTFDMjMuMiAyNCAyNCAyMy4yMjcgMjQgMjIuMjcxVjEuNzI5QzI0IC43NzQgMjMuMiAwIDIyLjIyMiAwaC4wMDN6Ii8+PC9zdmc+" alt="LinkedIn" /></a>
-    <a href="https://github.com/ridloabelian?tab=stars"><img src="https://img.shields.io/badge/Star_Lists-12_Lists_%C2%B7_973%E2%98%85-d97706?style=for-the-badge&logo=github&logoColor=white" alt="Curated Star Lists" /></a>
+    <a href="https://github.com/ridloabelian?tab=stars"><img src="https://img.shields.io/badge/Star_Lists-12_Lists_%C2%B7_1%2C004%E2%98%85-d97706?style=for-the-badge&logo=github&logoColor=white" alt="Curated Star Lists" /></a>
     <a href="cv.md"><img src="https://img.shields.io/badge/CV-View_Resume-6366f1?style=for-the-badge&logo=readme&logoColor=white" alt="CV" /></a>
   </p>
 </div>
@@ -29,7 +29,7 @@ I design and ship production systems across **serverless edge computing**, **aut
 | 🏢 **One-Person Company (OPC)** | **Founder** · [SAIF](https://saif.co.id) | AI-native One-Person Company turning open-source GitHub repos into production systems managed 24/7 by AI agents |
 | 🕌 **Productive Waqf** | **CEO** · [Amal Produktif](https://amalproduktif.or.id) | Registered Indonesian *Nazhir Wakaf* managing productive endowments & digital transparency |
 | 🏛️ **National Ecosystem** | **Head of Innovation** · [ANI](https://ani.or.id) & [FWP](https://fwp.or.id) | Smart Nazhir Ecosystem 2030, waqf regulatory standards (PSAK 412/112, LSP BWI), & public ledgers |
-| 🌍 **Open Source & Research** | **Creator & Curator** · [GitHub](https://github.com/ridloabelian) | Open-source Odoo 18–20 NPO suites, *"Stack Nol Rupiah"* blueprints, & [12 Star Lists (973★)](https://github.com/ridloabelian?tab=stars) |
+| 🌍 **Open Source & Research** | **Creator & Curator** · [GitHub](https://github.com/ridloabelian) | Open-source Odoo 18–20 NPO suites, *"Stack Nol Rupiah"* blueprints, & [12 Star Lists (1,004★)](https://github.com/ridloabelian?tab=stars) |
 
 ---
 
@@ -101,24 +101,29 @@ I design and ship production systems across **serverless edge computing**, **aut
 | [**waqf-odoo-docker**](https://github.com/ridloabelian/waqf-odoo-docker) | Turnkey Docker Compose for Odoo ERP Wakaf (PSAK 412/112 & LSP BWI) in collaboration with Amal Produktif, FWP, and ANI. | `Docker` `Odoo` |
 | [**odoo-ai-copilot**](https://github.com/ridloabelian/odoo-ai-copilot) | Context-aware AI Assistant on every page for Odoo 20 featuring a Systray & Slide-Over Copilot with autonomous ORM tool calling. | `Python` `Odoo 20 AI` |
 
-#### 🤖 Agentic AI, LLM Gateways & Autonomous Media
-*Autonomous agent teams, zero-cost edge LLM routers, security frameworks, and prompt operating systems:*
+#### 🤖 Agentic AI, MCP Servers & Autonomous Systems
+*Autonomous agent teams, MCP servers, zero-cost edge LLM routers, security frameworks, and company operating systems:*
 
 | Project | Description | Stack |
 | :--- | :--- | :--- |
 | [**awesome-one-person-company**](https://github.com/ridloabelian/awesome-one-person-company) | Living, end-to-end (*Hulu–Hilir*) open-source & agentic AI stack for One-Person Companies, solopreneurs, and indie hackers (auto-verified `<30d` via GitHub Actions + `SKILL.md`). | `Python` `Agentic AI` |
+| [**waqf-framework**](https://github.com/ridloabelian/waqf-framework) · [🌐 Live](https://ridlo.id/waqf-framework) | WAQF Framework: 2D Prophetic Management Cycle (*Wijhah*–*'Azam*–*Qiyam*–*Fahs* × *SAFT*) & agent skills as an open alternative to PDCA/POAC/OKR. | `Agent Skills` `Framework` |
+| [**axiomos**](https://github.com/ridloabelian/axiomos) | Open-source First-Principles Work & Company OS featuring 5-minute time blocking, flat-org micro-ERP, and a high-velocity decision engine. | `JavaScript` `Company OS` |
+| [**google-flow-mcp-http**](https://github.com/ridloabelian/google-flow-mcp-http) | Plug-and-play remote MCP server for Google Flow (`flow.google.com`) via Chrome CDP, Playwright, and MCP Streamable HTTP. | `TypeScript` `MCP` |
+| [**gemini-web-mcp**](https://github.com/ridloabelian/gemini-web-mcp) | Playwright/Patchright MCP server wrapping `gemini.google.com` with persistent browser profiles, model switching, and file uploads. | `Python` `MCP` |
 | [**agentic-content-studio**](https://github.com/ridloabelian/agentic-content-studio) | Autonomous AI content team in a single agent: research, script, local VoiceStudio TTS, Whisper self-correction retake, 9:16 motion graphics, visual QA, & FFmpeg render. | `Python` `Multimodal` |
 | [**bansosrouter**](https://github.com/ridloabelian/bansosrouter) | 100% Free-Tier & Rp 0 (`$0 Lock`) AI LLM Gateway deployed on Cloudflare Workers + D1 + KV. | `TypeScript` `Workers` |
 | [**ads-autonomous-cli**](https://github.com/ridloabelian/ads-autonomous-cli) · [🌐 Live](https://main.ads-dashboard-4ce.pages.dev) | Autonomous multi-agent marketing assistant scraping Meta Ads Library (Copywriter, Analyst, Strategist, Auditor) on Cloudflare edge. | `TypeScript` `Edge AI` |
 | [**waqf-agentic-workflow**](https://github.com/ridloabelian/waqf-agentic-workflow) | Distributed AI agent orchestration mapped to 10 BWI/LSP nazhir competency standards (`SS.001`–`SS.010`). | `Shell` `Workflow` |
 | [**saif-skills**](https://github.com/ridloabelian/saif-skills) | Executable AI agent security skills mapped directly to the Google Secure AI Framework (SAIF). | `SAIF` `AI Security` |
-| [**qalam**](https://github.com/ridloabelian/qalam) · [🌐 Live](https://qalam.ridlo.id) | Personal prompt engineering OS — transform rough drafts into production-ready prompts with a curated library and Gold×Navy UI. | `HTML` `Prompt OS` |
+| [**qalam**](https://github.com/ridloabelian/qalam) | Personal prompt engineering OS — transform rough drafts into production-ready prompts with a curated library and Gold×Navy UI. | `HTML` `Prompt OS` |
 
 #### 🌐 Web Platforms, Halal Web3 & Digital Ledgers
 *Verifiable ledgers, zero-riba Web3 vaults, national portals, and omnichannel communication platforms:*
 
 | Project | Description | Stack |
 | :--- | :--- | :--- |
+| [**waqf-dao**](https://github.com/ridloabelian/waqf-dao) | Institutional Waqf DAO Protocol on Ethereum L2: Shariah-compliant endowment vaults (AAOIFI SS 60 & PSAK 412), Dual-Chamber Digital Hisbah Governance, Odoo 20 Merkle Oracle, & AI CIO forensic due diligence. | `Python` `Ethereum L2` |
 | [**waqf-chain**](https://github.com/ridloabelian/waqf-chain) | Open-source immutable ledger and public dashboard for transparent, tamper-proof waqf reporting (Hono API, Next.js 14, Prisma/PostgreSQL, Redis). | `TypeScript` `Next.js` |
 | [**shariah-defi-yield-saver-poc**](https://github.com/ridloabelian/shariah-defi-yield-saver-poc) | Certified Shariah-compliant Web3 DeFi Yield Vault & Halal DEX Liquidity PoC (`100% Zero Riba`) with Foundry (*Akad Musyarakah*, Uniswap V3 LP fee sharing) and Next.js + Viem. | `Solidity` `Foundry` |
 | [**nazhir.id**](https://github.com/ridloabelian/nazhir.id) · [🌐 Live](https://nazhir.id) | Unified dashboard for national waqf administration and the Smart Nazhir Ecosystem 2030. | `TypeScript` `SaaS` |
@@ -143,14 +148,14 @@ I design and ship production systems across **serverless edge computing**, **aut
 
 ### 🌟 Curated Research & Star Directories
 
-I actively curate open-source tooling, agent frameworks, and infrastructure patterns across **[12 Curated Star Lists (558 Categorized · 973 Total Starred Repositories)](https://github.com/ridloabelian?tab=stars)**:
+I actively curate open-source tooling, agent frameworks, and infrastructure patterns across **[12 Curated Star Lists (558 Categorized · 1,004 Total Starred Repositories)](https://github.com/ridloabelian?tab=stars)**:
 
 | Curated Directory | Repos | Scope & Highlights |
 | :--- | :---: | :--- |
 | 🤖 [**AI Agents & Coding Assistants**](https://github.com/stars/ridloabelian/lists/ai-agents-coding-assistants) | `182` | Agentic coding, Claude Code, MCP servers, Hermes, OpenCode, and skill registries |
 | 🧠 [**LLMs, Local Inference & RAG**](https://github.com/stars/ridloabelian/lists/llms-local-inference-rag) | `95` | Inference engines (DS4, Colibri, Ollama, vLLM), prompt engineering, quantization, & vector RAG |
-| 🎨 [**Creative & Multimodal AI**](https://github.com/stars/ridloabelian/lists/creative-multimodal-ai) | `77` | Text-to-Video, short-drama pipelines, Whisper/TTS, music/audio generation, & OCR |
-| 🛡️ [**Cybersecurity, OSINT & Red Team**](https://github.com/stars/ridloabelian/lists/cybersecurity-osint-red-team) | `52` | Autonomous pentesting skills, prompt injection & jailbreak research, and OSINT frameworks |
+| 🎨 [**Creative & Multimodal AI**](https://github.com/stars/ridloabelian/lists/creative-multimodal-ai) | `78` | Text-to-Video, short-drama pipelines, Whisper/TTS, music/audio generation, & OCR |
+| 🛡️ [**Cybersecurity, OSINT & Red Team**](https://github.com/stars/ridloabelian/lists/cybersecurity-osint-red-team) | `51` | Autonomous pentesting skills, prompt injection & jailbreak research, and OSINT frameworks |
 | 📚 [**Awesome Lists & Resources**](https://github.com/stars/ridloabelian/lists/awesome-lists-resources) | `38` | Developer roadmaps, system design handbooks, cheat sheets, and free-tier directories |
 | 💼 [**Business, Fintech & Career**](https://github.com/stars/ridloabelian/lists/business-fintech-career) | `33` | Indonesian payment SDKs (GoPay, Shopee), Odoo ERP extensions, and algorithmic finance |
 | ☁️ [**DevOps, Cloud & Self-Hosted**](https://github.com/stars/ridloabelian/lists/devops-cloud-self-hosted) | `26` | Docker, Kubernetes, homelab stacks, WireGuard/Tailscale, and reverse proxies |
