@@ -13,7 +13,7 @@
     <a href="https://saif.co.id"><img src="https://img.shields.io/badge/SAIF-One--Person_Company-0f172a?style=for-the-badge&logo=cloudflare&logoColor=white" alt="SAIF" /></a>
     <a href="https://amalproduktif.or.id"><img src="https://img.shields.io/badge/Amal_Produktif-Nazhir_Wakaf-047857?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0xMiAyTDkgNmg2bC0zLTR6bTAgNWMtMy44NyAwLTcgMy4xMy03IDd2OGg1di01YzAtMS4xLjktMiAyLTJzMiAuOSAyIDJ2NWg1di04YzAtMy44Ny0zLjEzLTctNy03ek0yIDEydjEwaDJWMTJIMnptMTggMHYxMGgyVjEyaC0yeiIvPjwvc3ZnPg==" alt="Amal Produktif" /></a>
     <a href="https://linkedin.com/in/ridloabelian"><img src="https://img.shields.io/badge/LinkedIn-ridloabelian-0a66c2?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0yMC40NDcgMjAuNDUyaC0zLjU1NHYtNS41NjljMC0xLjMyOC0uMDI3LTMuMDM3LTEuODUyLTMuMDM3LTEuODUzIDAtMi4xMzYgMS40NDUtMi4xMzYgMi45Mzl2NS42NjdIOS4zNTFWOWgzLjQxNHYxLjU2MWguMDQ2Yy40NzctLjkgMS42MzctMS44NSAzLjM3LTEuODUgMy42MDEgMCA0LjI2NyAyLjM3IDQuMjY3IDUuNDU1djYuMjg2ek01LjMzNyA3LjQzM2EyLjA2MiAyLjA2MiAwIDAxLTIuMDYzLTIuMDY1IDIuMDY0IDIuMDY0IDAgMTEyLjA2MyAyLjA2NXptMS43ODIgMTMuMDE5SDMuNTU1VjloMy41NjR2MTEuNDUyek0yMi4yMjUgMEgxLjc3MUMuNzkyIDAgMCAuNzc0IDAgMS43Mjl2MjAuNTQyQzAgMjMuMjI3Ljc5MiAyNCAxLjc3MSAyNGgyMC40NTFDMjMuMiAyNCAyNCAyMy4yMjcgMjQgMjIuMjcxVjEuNzI5QzI0IC43NzQgMjMuMiAwIDIyLjIyMiAwaC4wMDN6Ii8+PC9zdmc+" alt="LinkedIn" /></a>
-    <a href="https://github.com/ridloabelian?tab=stars"><img src="https://img.shields.io/badge/Star_Lists-12_Lists_%C2%B7_1%2C004%E2%98%85-d97706?style=for-the-badge&logo=github&logoColor=white" alt="Curated Star Lists" /></a>
+    <a href="https://github.com/ridloabelian?tab=stars"><img src="https://img.shields.io/badge/Star_Lists-12_Lists_%C2%B7_1%2C006%E2%98%85-d97706?style=for-the-badge&logo=github&logoColor=white" alt="Curated Star Lists" /></a>
     <a href="cv.md"><img src="https://img.shields.io/badge/CV-View_Resume-6366f1?style=for-the-badge&logo=readme&logoColor=white" alt="CV" /></a>
   </p>
 </div>
@@ -29,7 +29,7 @@ I design and ship production systems across **serverless edge computing**, **aut
 | 🏢 **One-Person Company (OPC)** | **Founder** · [SAIF](https://saif.co.id) | AI-native One-Person Company turning open-source GitHub repos into production systems managed 24/7 by AI agents |
 | 🕌 **Productive Waqf** | **CEO** · [Amal Produktif](https://amalproduktif.or.id) | Registered Indonesian *Nazhir Wakaf* managing productive endowments & digital transparency |
 | 🏛️ **National Ecosystem** | **Head of Innovation** · [ANI](https://ani.or.id) & [FWP](https://fwp.or.id) | Smart Nazhir Ecosystem 2030, waqf regulatory standards (PSAK 412/112, LSP BWI), & public ledgers |
-| 🌍 **Open Source & Research** | **Creator & Curator** · [GitHub](https://github.com/ridloabelian) | Open-source Odoo 18–20 NPO suites, *"Stack Nol Rupiah"* blueprints, & [12 Star Lists (1,004★)](https://github.com/ridloabelian?tab=stars) |
+| 🌍 **Open Source & Research** | **Creator & Curator** · [GitHub](https://github.com/ridloabelian) | Open-source Odoo 18–20 NPO suites, *"Stack Nol Rupiah"* blueprints, & [12 Star Lists (1,006★)](https://github.com/ridloabelian?tab=stars) |
 
 ---
 
@@ -148,7 +148,7 @@ I design and ship production systems across **serverless edge computing**, **aut
 
 ### 🌟 Curated Research & Star Directories
 
-I actively curate open-source tooling, agent frameworks, and infrastructure patterns across **[12 Curated Star Lists (558 Categorized · 1,004 Total Starred Repositories)](https://github.com/ridloabelian?tab=stars)**:
+I actively curate open-source tooling, agent frameworks, and infrastructure patterns across **[12 Curated Star Lists (557 Categorized · 1,006 Total Starred Repositories)](https://github.com/ridloabelian?tab=stars)**:
 
 | Curated Directory | Repos | Scope & Highlights |
 | :--- | :---: | :--- |
@@ -157,7 +157,7 @@ I actively curate open-source tooling, agent frameworks, and infrastructure patt
 | 🎨 [**Creative & Multimodal AI**](https://github.com/stars/ridloabelian/lists/creative-multimodal-ai) | `78` | Text-to-Video, short-drama pipelines, Whisper/TTS, music/audio generation, & OCR |
 | 🛡️ [**Cybersecurity, OSINT & Red Team**](https://github.com/stars/ridloabelian/lists/cybersecurity-osint-red-team) | `51` | Autonomous pentesting skills, prompt injection & jailbreak research, and OSINT frameworks |
 | 📚 [**Awesome Lists & Resources**](https://github.com/stars/ridloabelian/lists/awesome-lists-resources) | `38` | Developer roadmaps, system design handbooks, cheat sheets, and free-tier directories |
-| 💼 [**Business, Fintech & Career**](https://github.com/stars/ridloabelian/lists/business-fintech-career) | `33` | Indonesian payment SDKs (GoPay, Shopee), Odoo ERP extensions, and algorithmic finance |
+| 💼 [**Business, Fintech & Career**](https://github.com/stars/ridloabelian/lists/business-fintech-career) | `32` | Indonesian payment SDKs (GoPay, Shopee), Odoo ERP extensions, and algorithmic finance |
 | ☁️ [**DevOps, Cloud & Self-Hosted**](https://github.com/stars/ridloabelian/lists/devops-cloud-self-hosted) | `26` | Docker, Kubernetes, homelab stacks, WireGuard/Tailscale, and reverse proxies |
 | ⚡ [**Automation, Bots & Growth**](https://github.com/stars/ridloabelian/lists/automation-bots-growth) | `16` | Browser automation, LLM router bots, workflow engines, and social intelligence tooling |
 | 📱 [**OS Utilities, macOS & Mobile**](https://github.com/stars/ridloabelian/lists/os-utilities-macos-mobile) | `13` | macOS system utilities (Mole, BrewUI), Android virtualization (Termux, Podroid), & openpilot |

@@ -17,7 +17,7 @@ GitHub profile README untuk Ridlo Abelian — CEO of Amal Produktif, Founder of 
 - Dynamic GitHub activity & metrics (Profile Details, Stats, Streak, Top Languages by Repo)
 - Visual 2-row tech stack strip (SkillIcons) and categorized technology tables
 - Categorized featured projects (Waqf & NPO ERP Odoo 18–20 suite, Agentic AI, MCP & LLM Gateways, Web Platforms & Halal Web3/DAO Ledgers, Stack Nol Rupiah 5-Kitab series)
-- Automated Curated Star Lists & Research Directories table (12 lists / 558 categorized / 1,004 total starred repos, auto-synced via GitHub Actions)
+- Automated Curated Star Lists & Research Directories table (12 lists / 557 categorized / 1,006 total starred repos, auto-synced via GitHub Actions)
 - Animated GitHub Contribution Snake graph
 - Core operating principles and mission quote
 
