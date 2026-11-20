@@ -8,22 +8,23 @@ GitHub profile README untuk Ridlo Abelian — CEO of Amal Produktif, Founder of 
 
 ## Tech Stack
 
-- **Format:** GitHub Markdown
-- **Style:** Modern tech & visual portfolio (dynamic typing banner, GitHub stats & streak, skill icons, structured showcase tables, and contribution snake)
+- **Format:** GitHub Markdown & custom responsive SVG assets (`assets/`)
+- **Style:** Modern tech & visual portfolio (custom dark/light hero & footer SVGs, dynamic typing banner, 2×2 & 3×2 Bento Grids, GitHub stats & streak, skill icons, collapsible showcase tables, and contribution snake)
 
 ## Key Features
 
-- Professional bio and structured leadership pillars (SAIF, Amal Produktif, ANI, FWP)
-- Dynamic GitHub activity & metrics (Profile Details, Stats, Streak, Top Languages by Repo)
+- Custom dark/light SVG identity hero, geometric section dividers, and mission footer (`assets/hero-*.svg`, `assets/divider-*.svg`, `assets/footer-*.svg`)
+- Professional bio and 2×2 Bento Grid leadership pillars (SAIF, Amal Produktif, ANI, FWP)
+- 3×2 Flagship Systems Spotlight Bento Grid (`saif-agent`, `edge-anything`, `waqf-dao`, `waqf-odoo-modules` + `odoo-ai-copilot`, `waflare`, `trading-sop-rag` + `lambung-kapal-risk-os`)
+- Dynamic GitHub activity & metrics (Profile Details, Stats, Streak, Top Languages by Repo) paired with animated Contribution Snake graph
 - Visual 2-row tech stack strip (SkillIcons) and categorized technology tables
-- Categorized featured projects (Waqf & NPO ERP Odoo 18–20 suite, Pure-Rust & Edge Agentic AI / MCP, Web Platforms & Halal Web3/DAO Ledgers, Quantitative Market Intelligence & Risk OS, Stack Nol Rupiah series)
-- Automated Curated Star Lists & Research Directories table (12 lists / 558 categorized / 1,018 total starred repos, auto-synced via GitHub Actions)
-- Animated GitHub Contribution Snake graph
-- Core operating principles and mission quote
+- Collapsible categorized featured projects (`<details open>`: Waqf & NPO ERP Odoo 18–20 suite, Pure-Rust & Edge Agentic AI / MCP, Web Platforms & Halal Web3/DAO Ledgers, Quantitative Market Intelligence & Risk OS, Stack Nol Rupiah series)
+- Automated Curated Star Lists & Research Directories table with distribution bars (12 lists / 558 categorized / 1,019 total starred repos, auto-synced via GitHub Actions)
+- 5-column core operating principles matrix and SVG mission quote banner
 
 ## Key Conventions
 
-- GitHub-flavored Markdown
-- Responsive dark/light theme assets using `<picture>` (`prefers-color-scheme`) across stats cards, SkillIcons (`%2C`-encoded `srcset`), and contribution snake
+- GitHub-flavored Markdown (always leave blank lines inside HTML `<td>` and `<details>` blocks so Markdown renders reliably)
+- Responsive dark/light theme assets using `<picture>` (`prefers-color-scheme`) across custom `assets/*.svg` banners, typing SVG, stats cards, SkillIcons (`%2C`-encoded `srcset`), and contribution snake
 - Embedded base64 SVG icons on `shields.io` badges for custom/brand logos not in Simple Icons
 - Direct links to live deployments and source repositories
