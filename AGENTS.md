@@ -9,11 +9,11 @@ GitHub profile README untuk Ridlo Abelian — CEO of Amal Produktif, Founder of 
 ## Tech Stack
 
 - **Format:** GitHub Markdown & custom responsive SVG assets (`assets/`)
-- **Style:** Modern tech & visual portfolio (custom dark/light hero & footer SVGs, dynamic typing banner, 2×2 & 3×2 Bento Grids, GitHub stats & streak, skill icons, collapsible showcase tables, and contribution snake)
+- **Style:** Modern tech & visual portfolio (custom dark/light divider & footer SVGs, dynamic typing banner, 2×2 & 3×2 Bento Grids, GitHub stats & streak, skill icons, collapsible showcase tables, and contribution snake)
 
 ## Key Features
 
-- Custom dark/light SVG identity hero, geometric section dividers, and mission footer (`assets/hero-*.svg`, `assets/divider-*.svg`, `assets/footer-*.svg`)
+- Custom dark/light SVG geometric section dividers and mission footer (`assets/divider-*.svg`, `assets/footer-*.svg`)
 - Professional bio and 2×2 Bento Grid leadership pillars (SAIF, Amal Produktif, ANI, FWP)
 - 3×2 Flagship Systems Spotlight Bento Grid (`saif-agent`, `edge-anything`, `waqf-dao`, `waqf-odoo-modules` + `odoo-ai-copilot`, `waflare`, `trading-sop-rag` + `lambung-kapal-risk-os`)
 - Dynamic GitHub activity & metrics (Profile Details, Stats, Streak, Top Languages by Repo) paired with animated Contribution Snake graph

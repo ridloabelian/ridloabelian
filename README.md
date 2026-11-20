@@ -1,11 +1,6 @@
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/hero-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/hero-light.svg" />
-    <img alt="Ridlo Abelian — Founder-Builder of Waqf x AI Infrastructure" src="./assets/hero-dark.svg" width="100%" />
-  </picture>
-
-  <br><br>
+  <h1>Hi there, I'm Ridlo Abelian 👋</h1>
+  <p><strong>Founder-Builder of Waqf × AI Infrastructure, Sharia ERP Ecosystems & Autonomous Digital Systems</strong></p>
 
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&pause=1200&color=10B981&center=true&vCenter=true&width=760&lines=Founder+%40+SAIF+%E2%80%94+AI-Native+One-Person+Company;CEO+%40+Amal+Produktif+%E2%80%94+Productive+Waqf+Institution;Head+of+Innovation+%40+Indonesian+Nazhir+Association+(ANI);Creator+of+Open-Source+Odoo+18%E2%80%9320+Waqf%2C+Zakat+%26+NPO+Suites;Serverless-first+%C2%B7+Agent-operated+%C2%B7+Human-governed+%C2%B7+Halal-first" />
