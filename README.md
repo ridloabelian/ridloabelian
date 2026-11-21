@@ -40,7 +40,7 @@ AI-native One-Person Company turning open-source GitHub repositories into produc
     <td width="50%" valign="top">
 
 #### 🕌 Productive Waqf
-**CEO** · [**Amal Produktif**](https://amalproduktif.or.id)  
+**CEO** · [**Amal Produktif**](https://amalproduktif.or.id) · [**@amalproduktif**](https://github.com/amalproduktif)  
 Registered Indonesian *Nazhir Wakaf* managing productive endowments, compliant Islamic accounting, and verifiable public transparency.
 
 </td>
@@ -49,7 +49,7 @@ Registered Indonesian *Nazhir Wakaf* managing productive endowments, compliant I
     <td width="50%" valign="top">
 
 #### 🏛️ National Ecosystem
-**Head of Innovation** · [**ANI**](https://ani.or.id) · *Contributor at* [**FWP**](https://fwp.or.id)  
+**Head of Innovation** · [**ANI**](https://ani.or.id) ([**@Asosiasi-Nazhir-Indonesia**](https://github.com/Asosiasi-Nazhir-Indonesia)) · [**@WAQF-DAO**](https://github.com/WAQF-DAO) · *Contributor at* [**FWP**](https://fwp.or.id)  
 Driving the Smart Nazhir Ecosystem 2030, national waqf regulatory standards (`PSAK 412/112`, `LSP BWI`), and public immutable ledgers.
 
 </td>
@@ -57,7 +57,7 @@ Driving the Smart Nazhir Ecosystem 2030, national waqf regulatory standards (`PS
 
 #### 🌍 Open Source & Research
 **Creator & Curator** · [**@ridloabelian**](https://github.com/ridloabelian)  
-Creator of open-source Odoo 18–20 NPO suites, *"Stack Nol Rupiah"* cloud blueprints, & [12 Star Lists (1,024★)](https://github.com/ridloabelian?tab=stars).
+Creator of 60+ open-source repositories incl. Odoo 18–20 NPO suites, *"Stack Nol Rupiah"* blueprints, & [12 Star Lists (1,024★)](https://github.com/ridloabelian?tab=stars).
 
 </td>
   </tr>
@@ -89,21 +89,35 @@ Creator of open-source Odoo 18–20 NPO suites, *"Stack Nol Rupiah"* cloud bluep
   <tr>
     <td width="50%" valign="top">
 
-#### 🕌 [`waqf-dao`](https://github.com/ridloabelian/waqf-dao) · [![Ethereum L2](https://img.shields.io/badge/AAOIFI_SS_60_%C2%B7_L2-047857?style=flat-square&logo=ethereum&logoColor=white)](https://github.com/ridloabelian/waqf-dao)
-**Institutional Waqf DAO Protocol on Ethereum L2** combining Shariah-compliant endowment vaults (`AAOIFI SS 60` & `PSAK 412`), Dual-Chamber Digital Hisbah Governance, Odoo 20 Merkle Oracle, and AI CIO forensic due diligence.
+#### 🛡️ [`agent-spend-kit`](https://github.com/ridloabelian/agent-spend-kit) & [`agent-undo`](https://github.com/ridloabelian/agent-undo) · [![Agent FinOps & Safety](https://img.shields.io/badge/Agent_FinOps_%26_Safety-0ea5e9?style=flat-square)](https://github.com/ridloabelian/agent-spend-kit)
+**Autonomous agent financial & transactional guardrails**: self-hosted budget envelopes, single-use virtual-card policy engine & receipt reconciliation ledger paired with an MCP undo/grace-period firewall.
 
 </td>
     <td width="50%" valign="top">
 
-#### 🏛️ [`waqf-odoo-modules`](https://github.com/ridloabelian/waqf-odoo-modules) & [`odoo-ai-copilot`](https://github.com/ridloabelian/odoo-ai-copilot) · [![Odoo 18-20](https://img.shields.io/badge/Odoo_18%E2%80%9320-714b67?style=flat-square&logo=odoo&logoColor=white)](https://github.com/ridloabelian/waqf-odoo-modules)
-**Enterprise Sharia & NPO ERP ecosystem** (`PSAK 412/112`, `PSAK 109`, `ISAK 35`, `LSP BWI`) paired with a context-aware Odoo 20 Systray & Slide-Over AI Copilot featuring autonomous ORM tool calling.
+#### 👁️ [`ghadhul-bashar`](https://github.com/ridloabelian/ghadhul-bashar) · [![WebGPU ONNX](https://img.shields.io/badge/WebGPU_ONNX-10b981?style=flat-square)](https://github.com/ridloabelian/ghadhul-bashar) · [![Live](https://img.shields.io/badge/live-10b981?style=flat-square)](https://ridloabelian.github.io/ghadhul-bashar/)
+**100% on-device surgical AI gaze-protection browser extension** (*Ghadhul Bashar*) powered by WebGPU/WASM ONNX inference — delivering zero-flash filtering, zero cloud telemetry, and zero layout breakage.
 
 </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
 
-#### 💬 [`waflare`](https://github.com/ridloabelian/waflare) · [![28-Tool MCP](https://img.shields.io/badge/28--Tool_MCP-25d366?style=flat-square&logo=whatsapp&logoColor=white)](https://github.com/ridloabelian/waflare) · [![Stars](https://img.shields.io/github/stars/ridloabelian/waflare?style=flat-square&color=f59e0b&label=%E2%98%85)](https://github.com/ridloabelian/waflare/stargazers)
+#### 🕌 [`waqf-dao`](https://github.com/ridloabelian/waqf-dao) · [![Ethereum L2](https://img.shields.io/badge/AAOIFI_SS_60_%C2%B7_L2-047857?style=flat-square&logo=ethereum&logoColor=white)](https://github.com/WAQF-DAO/waqf-dao) · [![Live](https://img.shields.io/badge/live-10b981?style=flat-square)](https://waqf-dao-explorer.pages.dev)
+**Institutional Waqf DAO Protocol on Ethereum L2** ([`@WAQF-DAO`](https://github.com/WAQF-DAO)) combining Shariah-compliant endowment vaults (`AAOIFI SS 60` & `PSAK 412`), Dual-Chamber Digital Hisbah Governance, Odoo 20 Merkle Oracle, and AI CIO forensic due diligence.
+
+</td>
+    <td width="50%" valign="top">
+
+#### 🏛️ [`waqf-odoo-modules`](https://github.com/ridloabelian/waqf-odoo-modules) & [`odoo-ai-copilot`](https://github.com/ridloabelian/odoo-ai-copilot) · [![Odoo 18-20](https://img.shields.io/badge/Odoo_18%E2%80%9320-714b67?style=flat-square&logo=odoo&logoColor=white)](https://github.com/ridloabelian/waqf-odoo-modules)
+**Enterprise Sharia & NPO ERP ecosystem** (`PSAK 412/112`, `PSAK 109`, `ISAK 35`, `LSP BWI`) paired with [`nazhir-reach`](https://github.com/ridloabelian/nazhir-reach) *wakif* attribution and a context-aware Odoo 20 AI Copilot with autonomous ORM tool calling.
+
+</td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+
+#### 💬 [`waflare`](https://github.com/ridloabelian/waflare) · [![28-Tool MCP](https://img.shields.io/badge/28--Tool_MCP-25d366?style=flat-square&logo=whatsapp&logoColor=white)](https://github.com/ridloabelian/waflare) · [![Live](https://img.shields.io/badge/live-10b981?style=flat-square)](https://ridlo.id/waflare) · [![Stars](https://img.shields.io/github/stars/ridloabelian/waflare?style=flat-square&color=f59e0b&label=%E2%98%85)](https://github.com/ridloabelian/waflare/stargazers)
 **All-in-one Cloudflare Workers & WhatsApp OS** unifying 27 open-source patterns: Dual-Mode MCP Server (28 tools), self-hosted CRM & 24h inbox, SQL/RAG retrieval, Whisper/TTS voice, and Plexi E2EE key transparency.
 
 </td>
@@ -183,9 +197,9 @@ Creator of open-source Odoo 18–20 NPO suites, *"Stack Nol Rupiah"* cloud bluep
 | **🦀 Languages** | `Rust` · `Python` · `TypeScript` · `JavaScript` · `Solidity` · `Pine Script v6` · `PHP` · `Ruby` · `Bash` |
 | **⚙️ Backend & ERP** | `Odoo 18, 19 & 20` (OCA Standard) · `Axum` · `Hono` · `Node.js` · `Serverless Edge` · `REST & GraphQL` |
 | **🖥️ UI, Desktop & TUI** | `React` · `Next.js` · `Astro` · `Tailwind CSS` · `Tauri v2` · `Ratatui` · `WebAssembly` · `Viem` |
-| **🗄️ Data & Search** | `PostgreSQL 17` · `Cloudflare D1, KV, R2 & Queues` · `SQLite (FTS5 / BM25)` · `Redis` · `Prisma` |
+| **🗄️ Data & Search** | `PostgreSQL 17` · `Cloudflare D1, KV, R2 & Queues` · `SQLite (FTS5 / BM25)` · `Drizzle & Prisma` · `Redis` |
 | **☁️ Edge & DevOps** | `Cloudflare Workers / Pages / Containers` · `Docker Compose` · `Caddy 2` · `Linux VPS` · `GitHub Actions` |
-| **🧠 AI, Quant & Web3** | `Autonomous Agent Runtimes` · `MCP Servers` · `LLM Gateways` · `Google SAIF` · `Foundry` · `FFmpeg / Whisper / TTS` |
+| **🧠 AI, Quant & Web3** | `Autonomous Agent Runtimes` · `MCP & Agent Guardrails` · `On-Device WebGPU ONNX` · `LLM Gateways` · `Google SAIF` · `Foundry` · `FFmpeg / Whisper / TTS` |
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/divider-dark.svg" />
@@ -214,7 +228,7 @@ Creator of open-source Odoo 18–20 NPO suites, *"Stack Nol Rupiah"* cloud bluep
 </details>
 
 <details open>
-<summary><b>🤖 Agentic AI, Edge Infrastructure & MCP Servers — 20 systems</b></summary>
+<summary><b>🤖 Agentic AI, Edge Infrastructure & MCP Servers — 21 systems</b></summary>
 
 *Pure-Rust agent runtimes, edge migration engines, WhatsApp/Cloudflare operating systems, and MCP servers:*
 
@@ -222,8 +236,9 @@ Creator of open-source Odoo 18–20 NPO suites, *"Stack Nol Rupiah"* cloud bluep
 | :--- | :--- | :--- |
 | [**saif-agent**](https://github.com/ridloabelian/saif-agent) | 100% pure-Rust autonomous self-improving AI agent (17-crate workspace: `ratatui` TUI, `axum` + WASM dashboard, Tauri v2 desktop, SQLite FTS5 v3, & golden `.jsonl` behavioral parity with `hermes-agent`). | `Rust` `Tauri v2` |
 | [**edge-anything**](https://github.com/ridloabelian/edge-anything) | Agentic backend-to-edge migration & behavioral parity engine for Cloudflare Workers, D1, KV, R2, Queues & Containers (CLI + MCP + Agent Skills). | `TypeScript` `Cloudflare` |
-| [**waflare**](https://github.com/ridloabelian/waflare) · [![Stars](https://img.shields.io/github/stars/ridloabelian/waflare?style=flat-square&color=f59e0b&label=%E2%98%85)](https://github.com/ridloabelian/waflare/stargazers) | All-in-one Cloudflare Workers & WhatsApp OS unifying 27 open-source patterns: Dual-Mode MCP Server (28 tools), self-hosted CRM & 24h inbox, SQL/RAG, Whisper/TTS voice, & Plexi E2EE key transparency. | `TypeScript` `Workers` |
-| [**ghadhul-bashar**](https://github.com/ridloabelian/ghadhul-bashar) | Fast, 100% on-device surgical AI gaze-protection (*Ghadhul Bashar*) browser extension powered by WebGPU/WASM ONNX with zero flash and zero layout breakage. | `TypeScript` `WebGPU ONNX` |
+| [**waflare**](https://github.com/ridloabelian/waflare) · [![Live](https://img.shields.io/badge/live-10b981?style=flat-square)](https://ridlo.id/waflare) · [![Stars](https://img.shields.io/github/stars/ridloabelian/waflare?style=flat-square&color=f59e0b&label=%E2%98%85)](https://github.com/ridloabelian/waflare/stargazers) | All-in-one Cloudflare Workers & WhatsApp OS unifying 27 open-source patterns: Dual-Mode MCP Server (28 tools), self-hosted CRM & 24h inbox, SQL/RAG, Whisper/TTS voice, & Plexi E2EE key transparency. | `TypeScript` `Workers` |
+| [**ghadhul-bashar**](https://github.com/ridloabelian/ghadhul-bashar) · [![Live](https://img.shields.io/badge/live-10b981?style=flat-square)](https://ridloabelian.github.io/ghadhul-bashar/) | Fast, 100% on-device surgical AI gaze-protection (*Ghadhul Bashar*) browser extension powered by WebGPU/WASM ONNX with zero flash and zero layout breakage. | `TypeScript` `WebGPU ONNX` |
+| [**agent-spend-kit**](https://github.com/ridloabelian/agent-spend-kit) | Self-hosted budget controller, single-use virtual-card policy engine, human approval queue, and multi-format receipt reconciliation ledger for autonomous AI agents. | `TypeScript` `Agent FinOps` |
 | [**agent-undo**](https://github.com/ridloabelian/agent-undo) | Open-source transactional firewall, MCP proxy, and undo/grace-period safety layer for autonomous AI agents. | `TypeScript` `MCP Safety` |
 | [**day2-audit**](https://github.com/ridloabelian/day2-audit) | Fast offline Day-2 production readiness CLI scanner auditing security, observability, and resilience across AI & web repositories. | `TypeScript` `CLI Audit` |
 | [**tabligh-os**](https://github.com/ridloabelian/tabligh-os) | Agentic omnichannel content distribution, repurposing, and human-governed publishing OS combining official APIs with physical approval gates. | `TypeScript` `Publishing OS` |
@@ -250,7 +265,7 @@ Creator of open-source Odoo 18–20 NPO suites, *"Stack Nol Rupiah"* cloud bluep
 
 | Project | Description | Stack |
 | :--- | :--- | :--- |
-| [**waqf-dao**](https://github.com/ridloabelian/waqf-dao) | Institutional Waqf DAO Protocol on Ethereum L2: Shariah-compliant endowment vaults (AAOIFI SS 60 & PSAK 412), Dual-Chamber Digital Hisbah Governance, Odoo 20 Merkle Oracle, & AI CIO forensic due diligence. | `Python` `Ethereum L2` |
+| [**waqf-dao**](https://github.com/ridloabelian/waqf-dao) · [![Live](https://img.shields.io/badge/live-10b981?style=flat-square)](https://waqf-dao-explorer.pages.dev) | Institutional Waqf DAO Protocol on Ethereum L2: Shariah-compliant endowment vaults (AAOIFI SS 60 & PSAK 412), Dual-Chamber Digital Hisbah Governance, Odoo 20 Merkle Oracle, & AI CIO forensic due diligence. | `Python` `Ethereum L2` |
 | [**waqf-chain**](https://github.com/ridloabelian/waqf-chain) | Open-source immutable ledger and public dashboard for transparent, tamper-proof waqf reporting (Hono API, Next.js 14, Prisma/PostgreSQL, Redis). | `TypeScript` `Next.js` |
 | [**shariah-defi-yield-saver-poc**](https://github.com/ridloabelian/shariah-defi-yield-saver-poc) | Certified Shariah-compliant Web3 DeFi Yield Vault & Halal DEX Liquidity PoC (`100% Zero Riba`) with Foundry (*Akad Musyarakah*, Uniswap V3 LP fee sharing) and Next.js + Viem. | `Solidity` `Foundry` |
 | [**nazhir.id**](https://github.com/ridloabelian/nazhir.id) · [![Live](https://img.shields.io/badge/live-10b981?style=flat-square)](https://nazhir.id) | Unified dashboard for national waqf administration and the Smart Nazhir Ecosystem 2030. | `TypeScript` `SaaS` |
