@@ -15,11 +15,18 @@ permissions:
 jobs:
   sync:
     runs-on: ubuntu-latest
+    env:
+      STAR_LISTS_PAT: ${{ secrets.STAR_LISTS_PAT }}
     steps:
       - uses: actions/checkout@v4
+      - name: Categorize newly starred repositories (if STAR_LISTS_PAT is configured)
+        if: env.STAR_LISTS_PAT != ''
+        env:
+          GITHUB_TOKEN: ${{ secrets.STAR_LISTS_PAT }}
+        run: python3 .github/scripts/categorize_stars.py --apply
       - name: Sync star list counts
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.STAR_LISTS_PAT || secrets.GITHUB_TOKEN }}
         run: python3 .github/scripts/sync_stars.py
       - name: Commit and push updates
         run: |

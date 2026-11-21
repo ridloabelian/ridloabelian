@@ -315,22 +315,22 @@ Creator of 60+ open-source repositories incl. Odoo 18–20 NPO suites, *"Stack N
 
 ### 🌟 Curated Research & Star Directories
 
-I actively curate open-source tooling, agent frameworks, and infrastructure patterns across **[12 Curated Star Lists (558 Categorized · 1,024 Total Starred Repositories)](https://github.com/ridloabelian?tab=stars)** — *auto-synced daily via GitHub Actions*:
+I actively curate open-source tooling, agent frameworks, and infrastructure patterns across **[12 Curated Star Lists (1,024 Categorized · 1,024 Total Starred Repositories)](https://github.com/ridloabelian?tab=stars)** — *auto-synced daily via GitHub Actions*:
 
 | Curated Directory | Repos | Distribution | Scope & Highlights |
 | :--- | :---: | :---: | :--- |
-| 🤖 [**AI Agents & Coding Assistants**](https://github.com/stars/ridloabelian/lists/ai-agents-coding-assistants) | `182` | `██████████` | Agentic coding, Claude Code, MCP servers, Hermes, OpenCode, and skill registries |
-| 🧠 [**LLMs, Local Inference & RAG**](https://github.com/stars/ridloabelian/lists/llms-local-inference-rag) | `95` | `█████░░░░░` | Inference engines (DS4, Colibri, Ollama, vLLM), prompt engineering, quantization, & vector RAG |
-| 🎨 [**Creative & Multimodal AI**](https://github.com/stars/ridloabelian/lists/creative-multimodal-ai) | `78` | `████░░░░░░` | Text-to-Video, short-drama pipelines, Whisper/TTS, music/audio generation, & OCR |
-| 🛡️ [**Cybersecurity, OSINT & Red Team**](https://github.com/stars/ridloabelian/lists/cybersecurity-osint-red-team) | `51` | `███░░░░░░░` | Autonomous pentesting skills, prompt injection & jailbreak research, and OSINT frameworks |
-| 📚 [**Awesome Lists & Resources**](https://github.com/stars/ridloabelian/lists/awesome-lists-resources) | `38` | `██░░░░░░░░` | Developer roadmaps, system design handbooks, cheat sheets, and free-tier directories |
-| 💼 [**Business, Fintech & Career**](https://github.com/stars/ridloabelian/lists/business-fintech-career) | `33` | `██░░░░░░░░` | Indonesian payment SDKs (GoPay, Shopee), Odoo ERP extensions, and algorithmic finance |
-| ☁️ [**DevOps, Cloud & Self-Hosted**](https://github.com/stars/ridloabelian/lists/devops-cloud-self-hosted) | `26` | `█░░░░░░░░░` | Docker, Kubernetes, homelab stacks, WireGuard/Tailscale, and reverse proxies |
-| ⚡ [**Automation, Bots & Growth**](https://github.com/stars/ridloabelian/lists/automation-bots-growth) | `16` | `█░░░░░░░░░` | Browser automation, LLM router bots, workflow engines, and social intelligence tooling |
-| 📱 [**OS Utilities, macOS & Mobile**](https://github.com/stars/ridloabelian/lists/os-utilities-macos-mobile) | `13` | `█░░░░░░░░░` | macOS system utilities (Mole, BrewUI), Android virtualization (Termux, Podroid), & openpilot |
-| 🖥️ [**Modern Web Dev & UI Design**](https://github.com/stars/ridloabelian/lists/modern-web-dev-ui-design) | `9` | `█░░░░░░░░░` | Modern frontend frameworks, Penpot/Excalidraw UI tools, and browser motion graphics |
-| 🔧 [**DevTools, CLI & Terminal**](https://github.com/stars/ridloabelian/lists/devtools-cli-terminal) | `9` | `█░░░░░░░░░` | Git tooling, testing frameworks, shell productivity, and CLI developer workflows |
-| 📈 [**Data Science & ML Foundations**](https://github.com/stars/ridloabelian/lists/data-science-ml-foundations) | `8` | `█░░░░░░░░░` | Data manipulation libraries, classical ML foundations, and statistical computing |
+| 🤖 [**AI Agents & Coding Assistants**](https://github.com/stars/ridloabelian/lists/ai-agents-coding-assistants) | `246` | `██████████` | Agentic coding, Antigravity, Claude Code, MCP servers, Hermes, OpenCode, & skill registries |
+| 🧠 [**LLMs, Local Inference & RAG**](https://github.com/stars/ridloabelian/lists/llms-local-inference-rag) | `160` | `███████░░░` | Local LLM engines (llama.cpp, MLX, Ollama, OpenVINO), Jev/System-1 decision models, gateways & RAG |
+| 🎨 [**Creative & Multimodal AI**](https://github.com/stars/ridloabelian/lists/creative-multimodal-ai) | `155` | `██████░░░░` | AI video & motion graphics skills (Remotion, HyperFrames, GSAP), Whisper/TTS dubbing, & Rust creative apps |
+| 💼 [**Business, Fintech & Career**](https://github.com/stars/ridloabelian/lists/business-fintech-career) | `98` | `████░░░░░░` | Quant & IDX/crypto trading bots, open-source CRM/billing/ERP (Odoo, Twenty, Hyperswitch), & WhatsApp Cloud |
+| 🛡️ [**Cybersecurity, OSINT & Red Team**](https://github.com/stars/ridloabelian/lists/cybersecurity-osint-red-team) | `78` | `███░░░░░░░` | Autonomous pentesting & bug-hunting agents, AI skill/code security scanners, OSINT engines, & Nuclei |
+| ☁️ [**DevOps, Cloud & Self-Hosted**](https://github.com/stars/ridloabelian/lists/devops-cloud-self-hosted) | `65` | `███░░░░░░░` | Cloudflare Workers/D1/R2 edge apps, Docker & PaaS (Dokploy, Arcane), observability, & homelab stacks |
+| 📚 [**Awesome Lists & Resources**](https://github.com/stars/ridloabelian/lists/awesome-lists-resources) | `51` | `██░░░░░░░░` | Curated developer directories, engineering roadmaps, system design handbooks, & free LLM/cloud tiers |
+| ⚡ [**Automation, Bots & Growth**](https://github.com/stars/ridloabelian/lists/automation-bots-growth) | `48` | `██░░░░░░░░` | AI browser automation (Skyvern, Stagehand, Playwright), multi-channel publishing, & growth/ads scrapers |
+| 📱 [**OS Utilities, macOS & Mobile**](https://github.com/stars/ridloabelian/lists/os-utilities-macos-mobile) | `46` | `██░░░░░░░░` | macOS utilities & launchers, Android cloud/remote control (scrcpy, redroid), & computer-use sandboxes |
+| 🖥️ [**Modern Web Dev & UI Design**](https://github.com/stars/ridloabelian/lists/modern-web-dev-ui-design) | `43` | `██░░░░░░░░` | Modern React/Next.js SaaS stacks, AI UI builders, Three.js/WebGL renderers, & web animation engines |
+| 🔧 [**DevTools, CLI & Terminal**](https://github.com/stars/ridloabelian/lists/devtools-cli-terminal) | `23` | `█░░░░░░░░░` | High-performance editors (Zed), codebase search (tgrep), database/API clients, & CLI developer workflows |
+| 📈 [**Data Science & ML Foundations**](https://github.com/stars/ridloabelian/lists/data-science-ml-foundations) | `11` | `█░░░░░░░░░` | Data manipulation libraries, statistical computing, mathematical modeling, & GPU training orchestration |
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/divider-dark.svg" />

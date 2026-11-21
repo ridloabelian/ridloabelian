@@ -140,14 +140,23 @@ def replace_required(text: str, pattern: str, replacement: str, label: str) -> s
     return updated
 
 
+def render_bar(count: int, max_count: int) -> str:
+    """Render a 10-character ASCII distribution bar scaled relative to max_count."""
+    if count <= 0 or max_count <= 0:
+        return "░" * 10
+    filled = max(1, min(10, round(10 * count / max_count)))
+    return "█" * filled + "░" * (10 - filled)
+
+
 def update_readme(readme_path: Path, total_stars: int, lists_by_slug: dict[str, int]) -> bool:
-    """Update star counts in README.md and return True if the file changed."""
+    """Update star counts, distribution bars, and row sorting in README.md."""
     original = readme_path.read_text(encoding="utf-8")
     list_count = len(lists_by_slug)
     categorized_total = sum(lists_by_slug.values())
     stars_comma = f"{total_stars:,}"
     stars_badge = stars_comma.replace(",", "%2C")
     cat_comma = f"{categorized_total:,}"
+    max_count = max(lists_by_slug.values()) if lists_by_slug else 1
 
     updated = original
     updated = replace_required(
@@ -169,9 +178,43 @@ def update_readme(readme_path: Path, total_stars: int, lists_by_slug: dict[str, 
         "README Curated Research summary",
     )
 
-    for slug, count in lists_by_slug.items():
-        list_pattern = rf"(\(https://github\.com/stars/{re.escape(USERNAME)}/lists/{re.escape(slug)}\)\s*\|\s*`)\d+(`\s*\|)"
-        updated, _ = re.subn(list_pattern, rf"\g<1>{count}\g<2>", updated)
+    row_pattern = re.compile(
+        rf"^(\| [^\n]*https://github\.com/stars/{re.escape(USERNAME)}/lists/([a-z0-9-]+)\)\s*\|\s*`)\d+(`\s*\|\s*`)[█░]{{10}}(`\s*\|[^\n]*)$"
+    )
+    lines = updated.splitlines(keepends=True)
+    matched_indices: list[int] = []
+    parsed_rows: list[tuple[int, int, str]] = []
+
+    for idx, line in enumerate(lines):
+        m = row_pattern.match(line.rstrip("\r\n"))
+        if not m:
+            continue
+        prefix, slug, mid, suffix = m.groups()
+        count = lists_by_slug.get(slug)
+        if count is None:
+            matched_indices.append(idx)
+            parsed_rows.append((-1, idx, line))
+            continue
+        newline = "\n" if line.endswith("\n") else ""
+        new_line = f"{prefix}{count}{mid}{render_bar(count, max_count)}{suffix}{newline}"
+        matched_indices.append(idx)
+        parsed_rows.append((count, idx, new_line))
+
+    if len(matched_indices) == len(lists_by_slug) and matched_indices == list(
+        range(matched_indices[0], matched_indices[0] + len(matched_indices))
+    ):
+        parsed_rows.sort(key=lambda item: (-item[0], item[1]))
+        start_idx = matched_indices[0]
+        end_idx = matched_indices[-1] + 1
+        lines[start_idx:end_idx] = [row[2] for row in parsed_rows]
+        updated = "".join(lines)
+    else:
+        for slug, count in lists_by_slug.items():
+            list_pattern = (
+                rf"(\(https://github\.com/stars/{re.escape(USERNAME)}/lists/{re.escape(slug)}\)"
+                rf"\s*\|\s*`)\d+(`\s*\|\s*`)[█░]{{10}}(`)"
+            )
+            updated, _ = re.subn(list_pattern, rf"\g<1>{count}\g<2>{render_bar(count, max_count)}\g<3>", updated)
 
     if updated != original:
         readme_path.write_text(updated, encoding="utf-8")
