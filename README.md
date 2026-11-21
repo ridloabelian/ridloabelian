@@ -196,7 +196,7 @@ Creator of open-source Odoo 18–20 NPO suites, *"Stack Nol Rupiah"* cloud bluep
 ### 🗂️ Complete Project & Ecosystem Directory
 
 <details open>
-<summary><b>🏛️ Waqf & Islamic NPO ERP Ecosystem (Odoo 18–20 Suite) — 7 repositories</b></summary>
+<summary><b>🏛️ Waqf & Islamic NPO ERP Ecosystem (Odoo 18–20 Suite) — 8 repositories</b></summary>
 
 *Open-source regulatory compliance and AI-assisted ERP suites for Indonesian Nazhir Wakaf, LAZ, and social welfare institutions:*
 
@@ -209,6 +209,7 @@ Creator of open-source Odoo 18–20 NPO suites, *"Stack Nol Rupiah"* cloud bluep
 | [**npo-odoo-docker**](https://github.com/ridloabelian/npo-odoo-docker) | Turnkey 1-click Docker orchestration for Odoo 19 & 18 LTS (Wakaf, Zakat, LKS) with Caddy 2 Auto-SSL, PostgreSQL 17, and automated disaster recovery. | `Docker` `Caddy 2` |
 | [**waqf-odoo-docker**](https://github.com/ridloabelian/waqf-odoo-docker) | Turnkey Docker Compose for Odoo ERP Wakaf (PSAK 412/112 & LSP BWI) in collaboration with Amal Produktif, FWP, and ANI. | `Docker` `Odoo` |
 | [**odoo-ai-copilot**](https://github.com/ridloabelian/odoo-ai-copilot) | Context-aware AI Assistant on every page for Odoo 20 featuring a Systray & Slide-Over Copilot with autonomous ORM tool calling. | `Python` `Odoo 20 AI` |
+| [**nazhir-reach**](https://github.com/ridloabelian/nazhir-reach) | Sharia-compliant campaign distribution, *wakif* retention flywheel, and PSAK 412/109 impact attribution suite for Indonesian Nazhir Wakaf & LAZ. | `TypeScript` `PSAK 412/109` |
 
 </details>
 
