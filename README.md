@@ -103,7 +103,7 @@ Creator of open-source Odoo 18–20 NPO suites, *"Stack Nol Rupiah"* cloud bluep
   <tr>
     <td width="50%" valign="top">
 
-#### 💬 [`waflare`](https://github.com/ridloabelian/waflare) · [![28-Tool MCP](https://img.shields.io/badge/28--Tool_MCP-25d366?style=flat-square&logo=whatsapp&logoColor=white)](https://github.com/ridloabelian/waflare)
+#### 💬 [`waflare`](https://github.com/ridloabelian/waflare) · [![28-Tool MCP](https://img.shields.io/badge/28--Tool_MCP-25d366?style=flat-square&logo=whatsapp&logoColor=white)](https://github.com/ridloabelian/waflare) · [![Stars](https://img.shields.io/github/stars/ridloabelian/waflare?style=flat-square&color=f59e0b&label=%E2%98%85)](https://github.com/ridloabelian/waflare/stargazers)
 **All-in-one Cloudflare Workers & WhatsApp OS** unifying 27 open-source patterns: Dual-Mode MCP Server (28 tools), self-hosted CRM & 24h inbox, SQL/RAG retrieval, Whisper/TTS voice, and Plexi E2EE key transparency.
 
 </td>
