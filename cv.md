@@ -14,7 +14,7 @@ Founder-builder shipping production systems end-to-end: frontend, backend APIs, 
 - **Frontend & Native:** React, Next.js, Astro, Tailwind CSS, Tauri v2, Ratatui, WebAssembly, Vite, Viem
 - **Data:** PostgreSQL 17, Prisma, SQLite (FTS5 / Okapi BM25), Cloudflare D1/KV/R2/Queues, Redis
 - **Infra:** Docker Compose, Caddy 2, Cloudflare Workers/Pages/R2, Linux VPS, Nginx, Kubernetes, GitHub Actions, GHCR
-- **AI ops:** pure-Rust autonomous agent runtimes (`saif-agent`), behavioral parity migration engines (`edge-anything`), LLM gateways, MCP servers, autonomous multimodal pipelines (Gemini `file_uri`/FFmpeg/Whisper/TTS), Google SAIF mapping
+- **AI ops:** pure-Rust autonomous agent runtimes (`saif-agent`), behavioral parity migration engines (`edge-anything`), transactional MCP safety proxies (`agent-undo`), on-device WebGPU/WASM ONNX inference (`ghadhul-bashar`), LLM gateways, MCP servers, autonomous multimodal pipelines (Gemini `file_uri`/FFmpeg/Whisper/TTS), Google SAIF mapping
 - **Web3:** Shariah-compliant DeFi vaults (Foundry/Solidity, *Akad Musyarakah*, zero-riba LP fee sharing), hash-chained ledger design, chain integration
 
 ## Selected work
