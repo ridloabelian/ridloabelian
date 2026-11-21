@@ -213,7 +213,7 @@ Creator of open-source Odoo 18–20 NPO suites, *"Stack Nol Rupiah"* cloud bluep
 </details>
 
 <details open>
-<summary><b>🤖 Agentic AI, Edge Infrastructure & MCP Servers — 15 systems</b></summary>
+<summary><b>🤖 Agentic AI, Edge Infrastructure & MCP Servers — 20 systems</b></summary>
 
 *Pure-Rust agent runtimes, edge migration engines, WhatsApp/Cloudflare operating systems, and MCP servers:*
 
@@ -226,6 +226,7 @@ Creator of open-source Odoo 18–20 NPO suites, *"Stack Nol Rupiah"* cloud bluep
 | [**agent-undo**](https://github.com/ridloabelian/agent-undo) | Open-source transactional firewall, MCP proxy, and undo/grace-period safety layer for autonomous AI agents. | `TypeScript` `MCP Safety` |
 | [**day2-audit**](https://github.com/ridloabelian/day2-audit) | Fast offline Day-2 production readiness CLI scanner auditing security, observability, and resilience across AI & web repositories. | `TypeScript` `CLI Audit` |
 | [**tabligh-os**](https://github.com/ridloabelian/tabligh-os) | Agentic omnichannel content distribution, repurposing, and human-governed publishing OS combining official APIs with physical approval gates. | `TypeScript` `Publishing OS` |
+| [**edge-funnel**](https://github.com/ridloabelian/edge-funnel) | 100% serverless first-party content attribution and D+1/D+3/D+7 same-age cohort analytics engine on Cloudflare Workers + D1. | `TypeScript` `Workers + D1` |
 | [**yt-playbook-extractor**](https://github.com/ridloabelian/yt-playbook-extractor) | Multimodal knowledge extractor turning any YouTube creator's videos, external podcasts & Shorts into attributed, timestamped playbooks via Gemini `file_uri`. | `Python` `Gemini` |
 | [**awesome-one-person-company**](https://github.com/ridloabelian/awesome-one-person-company) | Living, end-to-end (*Hulu–Hilir*) open-source & agentic AI stack for One-Person Companies, solopreneurs, and indie hackers (auto-verified `<30d` via GitHub Actions + `SKILL.md`). | `Python` `Agentic AI` |
 | [**waqf-framework**](https://github.com/ridloabelian/waqf-framework) · [![Live](https://img.shields.io/badge/live-10b981?style=flat-square)](https://ridlo.id/waqf-framework) | WAQF Framework: 2D Prophetic Management Cycle (*Wijhah*–*'Azam*–*Qiyam*–*Fahs* × *SAFT*) & agent skills as an open alternative to PDCA/POAC/OKR. | `Agent Skills` `Framework` |
