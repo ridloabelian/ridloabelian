@@ -13,7 +13,7 @@
     <a href="https://saif.co.id"><img src="https://img.shields.io/badge/SAIF-One--Person_Company-0f172a?style=for-the-badge&logo=cloudflare&logoColor=white" alt="SAIF" /></a>
     <a href="https://amalproduktif.or.id"><img src="https://img.shields.io/badge/Amal_Produktif-Nazhir_Wakaf-047857?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0xMiAyTDkgNmg2bC0zLTR6bTAgNWMtMy44NyAwLTcgMy4xMy03IDd2OGg1di01YzAtMS4xLjktMiAyLTJzMiAuOSAyIDJ2NWg1di04YzAtMy44Ny0zLjEzLTctNy03ek0yIDEydjEwaDJWMTJIMnptMTggMHYxMGgyVjEyaC0yeiIvPjwvc3ZnPg==" alt="Amal Produktif" /></a>
     <a href="https://linkedin.com/in/ridloabelian"><img src="https://img.shields.io/badge/LinkedIn-ridloabelian-0a66c2?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0yMC40NDcgMjAuNDUyaC0zLjU1NHYtNS41NjljMC0xLjMyOC0uMDI3LTMuMDM3LTEuODUyLTMuMDM3LTEuODUzIDAtMi4xMzYgMS40NDUtMi4xMzYgMi45Mzl2NS42NjdIOS4zNTFWOWgzLjQxNHYxLjU2MWguMDQ2Yy40NzctLjkgMS42MzctMS44NSAzLjM3LTEuODUgMy42MDEgMCA0LjI2NyAyLjM3IDQuMjY3IDUuNDU1djYuMjg2ek01LjMzNyA3LjQzM2EyLjA2MiAyLjA2MiAwIDAxLTIuMDYzLTIuMDY1IDIuMDY0IDIuMDY0IDAgMTEyLjA2MyAyLjA2NXptMS43ODIgMTMuMDE5SDMuNTU1VjloMy41NjR2MTEuNDUyek0yMi4yMjUgMEgxLjc3MUMuNzkyIDAgMCAuNzc0IDAgMS43Mjl2MjAuNTQyQzAgMjMuMjI3Ljc5MiAyNCAxLjc3MSAyNGgyMC40NTFDMjMuMiAyNCAyNCAyMy4yMjcgMjQgMjIuMjcxVjEuNzI5QzI0IC43NzQgMjMuMiAwIDIyLjIyMiAwaC4wMDN6Ii8+PC9zdmc+" alt="LinkedIn" /></a>
-    <a href="https://github.com/ridloabelian?tab=stars"><img src="https://img.shields.io/badge/Star_Lists-12_Lists_%C2%B7_1%2C020%E2%98%85-d97706?style=for-the-badge&logo=github&logoColor=white" alt="Curated Star Lists" /></a>
+    <a href="https://github.com/ridloabelian?tab=stars"><img src="https://img.shields.io/badge/Star_Lists-12_Lists_%C2%B7_1%2C023%E2%98%85-d97706?style=for-the-badge&logo=github&logoColor=white" alt="Curated Star Lists" /></a>
     <a href="cv.md"><img src="https://img.shields.io/badge/CV-View_Resume-6366f1?style=for-the-badge&logo=readme&logoColor=white" alt="CV" /></a>
   </p>
 </div>
@@ -57,7 +57,7 @@ Driving the Smart Nazhir Ecosystem 2030, national waqf regulatory standards (`PS
 
 #### 🌍 Open Source & Research
 **Creator & Curator** · [**@ridloabelian**](https://github.com/ridloabelian)  
-Creator of open-source Odoo 18–20 NPO suites, *"Stack Nol Rupiah"* cloud blueprints, & [12 Star Lists (1,020★)](https://github.com/ridloabelian?tab=stars).
+Creator of open-source Odoo 18–20 NPO suites, *"Stack Nol Rupiah"* cloud blueprints, & [12 Star Lists (1,023★)](https://github.com/ridloabelian?tab=stars).
 
 </td>
   </tr>
@@ -75,7 +75,7 @@ Creator of open-source Odoo 18–20 NPO suites, *"Stack Nol Rupiah"* cloud bluep
   <tr>
     <td width="50%" valign="top">
 
-#### 🦀 `saif-agent` · [![SAIF Core](https://img.shields.io/badge/SAIF_Core-0f172a?style=flat-square&logo=rust&logoColor=white)](https://saif.co.id)
+#### 🦀 [`saif-agent`](https://github.com/ridloabelian/saif-agent) · [![Pure Rust](https://img.shields.io/badge/Pure_Rust-0f172a?style=flat-square&logo=rust&logoColor=white)](https://github.com/ridloabelian/saif-agent)
 **100% pure-Rust autonomous self-improving AI agent** across a 17-crate workspace: `ratatui` TUI, `axum` + WASM dashboard, Tauri v2 desktop shell, SQLite FTS5 v3 memory, and golden `.jsonl` behavioral parity with `hermes-agent`.
 
 </td>
@@ -219,7 +219,7 @@ Creator of open-source Odoo 18–20 NPO suites, *"Stack Nol Rupiah"* cloud bluep
 
 | Project | Description | Stack |
 | :--- | :--- | :--- |
-| **saif-agent** · [![SAIF Core](https://img.shields.io/badge/SAIF_Core-0f172a?style=flat-square)](https://saif.co.id) | 100% pure-Rust autonomous self-improving AI agent (17-crate workspace: `ratatui` TUI, `axum` + WASM dashboard, Tauri v2 desktop, SQLite FTS5 v3, & golden `.jsonl` behavioral parity with `hermes-agent`). | `Rust` `Tauri v2` |
+| [**saif-agent**](https://github.com/ridloabelian/saif-agent) | 100% pure-Rust autonomous self-improving AI agent (17-crate workspace: `ratatui` TUI, `axum` + WASM dashboard, Tauri v2 desktop, SQLite FTS5 v3, & golden `.jsonl` behavioral parity with `hermes-agent`). | `Rust` `Tauri v2` |
 | [**edge-anything**](https://github.com/ridloabelian/edge-anything) | Agentic backend-to-edge migration & behavioral parity engine for Cloudflare Workers, D1, KV, R2, Queues & Containers (CLI + MCP + Agent Skills). | `TypeScript` `Cloudflare` |
 | [**waflare**](https://github.com/ridloabelian/waflare) | All-in-one Cloudflare Workers & WhatsApp OS unifying 27 open-source patterns: Dual-Mode MCP Server (28 tools), self-hosted CRM & 24h inbox, SQL/RAG, Whisper/TTS voice, & Plexi E2EE key transparency. | `TypeScript` `Workers` |
 | [**yt-playbook-extractor**](https://github.com/ridloabelian/yt-playbook-extractor) | Multimodal knowledge extractor turning any YouTube creator's videos, external podcasts & Shorts into attributed, timestamped playbooks via Gemini `file_uri`. | `Python` `Gemini` |
@@ -294,7 +294,7 @@ Creator of open-source Odoo 18–20 NPO suites, *"Stack Nol Rupiah"* cloud bluep
 
 ### 🌟 Curated Research & Star Directories
 
-I actively curate open-source tooling, agent frameworks, and infrastructure patterns across **[12 Curated Star Lists (558 Categorized · 1,020 Total Starred Repositories)](https://github.com/ridloabelian?tab=stars)** — *auto-synced daily via GitHub Actions*:
+I actively curate open-source tooling, agent frameworks, and infrastructure patterns across **[12 Curated Star Lists (558 Categorized · 1,023 Total Starred Repositories)](https://github.com/ridloabelian?tab=stars)** — *auto-synced daily via GitHub Actions*:
 
 | Curated Directory | Repos | Distribution | Scope & Highlights |
 | :--- | :---: | :---: | :--- |
