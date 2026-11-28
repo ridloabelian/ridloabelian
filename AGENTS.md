@@ -18,8 +18,8 @@ GitHub profile README untuk Ridlo Abelian — CEO of Amal Produktif, Founder of 
 - 4×2 Flagship Systems Spotlight Bento Grid (`saif-agent`, `edge-anything`, `agent-spend-kit` + `agent-undo`, `ghadhul-bashar`, `waqf-dao`, `waqf-odoo-modules` + `odoo-ai-copilot`, `waflare`, `trading-sop-rag` + `lambung-kapal-risk-os`)
 - Dynamic GitHub activity & metrics (Profile Details, Stats, Streak, Top Languages by Repo) paired with animated Contribution Snake graph
 - Visual 2-row tech stack strip (SkillIcons) and categorized technology tables
-- Collapsible categorized featured projects (`<details open>`: Waqf & NPO ERP Odoo 18–20 suite — 8 repos incl. `nazhir-reach`, Pure-Rust & Edge Agentic AI / MCP — 21 repos incl. `agent-spend-kit`, `ghadhul-bashar`, `agent-undo`, `day2-audit`, `tabligh-os`, `edge-funnel`, Web Platforms & Halal Web3/DAO Ledgers, Quantitative Market Intelligence & Risk OS, Stack Nol Rupiah series)
-- Automated Curated Star Lists & Research Directories table with distribution bars (12 lists / 1,022 categorized / 1,074 total starred repos, auto-synced via GitHub Actions)
+- Collapsible categorized featured projects (`<details open>`: Waqf & NPO ERP Odoo 18–20 suite — 8 repos incl. `nazhir-reach`, Pure-Rust & Edge Agentic AI / MCP — 21 repos incl. `agent-spend-kit`, `ghadhul-bashar`, `agent-undo`, `day2-audit`, `tabligh-os`, `edge-funnel`, Web Platforms & Halal Web3/DAO Ledgers — 8 platforms incl. `warm-crm`, `throwaway-event`, Quantitative Market Intelligence & Risk OS, Stack Nol Rupiah series)
+- Automated Curated Star Lists & Research Directories table with distribution bars (12 lists / 1,091 categorized / 1,091 total starred repos, auto-synced via GitHub Actions)
 - 5-column core operating principles matrix and SVG mission quote banner
 
 ## Key Conventions

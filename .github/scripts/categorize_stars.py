@@ -19,17 +19,17 @@ USER_AGENT = "ridloabelian-star-categorizer/1.0"
 BATCH_SIZE = 25
 
 LIST_DESCRIPTIONS: dict[str, str] = {
-    "ai-agents-coding-assistants": "Agentic coding, Antigravity, Claude Code, MCP servers, Hermes, OpenCode, virtual agent offices & skill registries",
+    "ai-agents-coding-assistants": "Agentic coding, Antigravity, Claude Code, Gemini CLI, MCP servers, multi-agent harnesses (LobeHub, Gastown, Eigent) & skill registries",
     "llms-local-inference-rag": "Local LLM engines (llama.cpp, MLX, Ollama, OpenVINO), Jev/System-1 decision models, AI gateways & vector/graph RAG",
-    "creative-multimodal-ai": "AI video & motion graphics skills (Remotion, HyperFrames, GSAP), Whisper/TTS dubbing, 3D/Blender & pure-Rust creative apps",
+    "creative-multimodal-ai": "AI video & motion graphics (Remotion, Motion Canvas, Manim, HyperFrames), Whisper/TTS dubbing, Blender/Godot 3D & pure-Rust creative apps",
     "business-fintech-career": "Quant & IDX/crypto trading bots, open-source CRM/billing/ERP (Odoo, Twenty, Hyperswitch), WhatsApp Cloud & career ops",
     "cybersecurity-osint-red-team": "Autonomous pentesting & bug-hunting agents, AI skill/code security scanners, OSINT engines, Nuclei & red-team payloads",
     "devops-cloud-self-hosted": "Cloudflare Workers/D1/R2 edge apps, Docker & PaaS (Dokploy, Arcane), observability, mail servers & self-hosted homelabs",
     "awesome-lists-resources": "Curated developer directories, engineering roadmaps, system design handbooks, free LLM/cloud tiers & open-source books",
     "automation-bots-growth": "AI browser automation (Skyvern, Stagehand, Playwright), multi-channel publishing, growth/ads intelligence & web scrapers",
     "os-utilities-macos-mobile": "macOS utilities & launchers, Android cloud/remote control (scrcpy, redroid), computer-use sandboxes & cross-device tools",
-    "modern-web-dev-ui-design": "Modern React/Next.js SaaS stacks, AI UI builders, Three.js/WebGL renderers, animation engines & design systems",
-    "devtools-cli-terminal": "High-performance editors (Zed), Git & codebase search (tgrep), database/API clients, developer environments & CLI tools",
+    "modern-web-dev-ui-design": "Modern React/Next.js SaaS stacks, AI UI builders, Three.js/Babylon.js/WebGL renderers, Canvas/SVG animation engines & design systems",
+    "devtools-cli-terminal": "High-performance editors (Zed), agent terminals (cmux, Oh My Posh), Git & codebase search (tgrep), DB/API clients & CLI workflows",
     "data-science-ml-foundations": "Data manipulation libraries, statistical computing, mathematical modeling, GPU training orchestration & ML foundations",
 }
 
@@ -186,6 +186,32 @@ OVERRIDES: dict[str, str] = {
     "openRin/Rin": "devops-cloud-self-hosted",
     "miantiao-me/Sink": "devops-cloud-self-hosted",
     "modelcontextprotocol/servers": "ai-agents-coding-assistants",
+    "godotengine/godot": "creative-multimodal-ai",
+    "konvajs/konva": "modern-web-dev-ui-design",
+    "ManimCommunity/manim": "creative-multimodal-ai",
+    "motion-canvas/motion-canvas": "creative-multimodal-ai",
+    "google-gemini/gemini-fullstack-langgraph-quickstart": "ai-agents-coding-assistants",
+    "google-gemini/gemini-skills": "ai-agents-coding-assistants",
+    "google-gemini/gemini-cli": "ai-agents-coding-assistants",
+    "melroy89/baremetal-os": "os-utilities-macos-mobile",
+    "alesha-pro/llm.asm": "llms-local-inference-rag",
+    "toeverything/AFFiNE": "business-fintech-career",
+    "BCUninstaller/Bulk-Crap-Uninstaller": "os-utilities-macos-mobile",
+    "ridloabelian/waflare": "ai-agents-coding-assistants",
+    "Ebony-Vinyl/dsh-our-free-model": "llms-local-inference-rag",
+    "crhywun/g1-acq": "automation-bots-growth",
+    "duwqijlk/muse-protocol": "automation-bots-growth",
+    "ancisaltylayty/2d-in-3d-animation-agent": "creative-multimodal-ai",
+    "havenicec/google-qr-sms-helper": "automation-bots-growth",
+    "fleetbase/fleetbase": "business-fintech-career",
+    "omnara-ai/omnara": "ai-agents-coding-assistants",
+    "leepokai/Codync": "ai-agents-coding-assistants",
+    "sheprd-labs/sheprd": "ai-agents-coding-assistants",
+    "JanDeDobbeleer/oh-my-posh": "devtools-cli-terminal",
+    "elie222/rakazo": "ai-agents-coding-assistants",
+    "Orkas-AI/Orkas": "ai-agents-coding-assistants",
+    "manaflow-ai/cmux": "devtools-cli-terminal",
+    "plastic-labs/honcho": "llms-local-inference-rag",
 }
 
 
@@ -383,10 +409,10 @@ def classify_repo(repo_info: dict) -> str:
             return "awesome-lists-resources"
 
     if any(k in blob for k in [
-        "macos", "android", "scrcpy", "redroid", "termux", "ios", "launcher", "homebrew", "virtualization",
+        "macos", "android", "scrcpy", "redroid", "termux", "launcher", "homebrew", "virtualization",
         "titanium-browser", "tinycast", "codenotch", "mobile-mcp", "opendroid", "hermes-mobile", "ares (",
         "mobile-agent", "android_world",
-    ]):
+    ]) or re.search(r"\bios\b", blob):
         return "os-utilities-macos-mobile"
 
     if any(k in blob for k in [
@@ -410,12 +436,12 @@ def classify_repo(repo_info: dict) -> str:
 
     if any(k in blob for k in [
         "llama.cpp", "llamacpp", "mlx", "openvino", "gpt4all", "localai", "textgen", "open-webui",
-        "janhq/jan", "exo-explore", "lightrag", "pageindex", "qanything", "rag", "vector-search",
-        "jev", "typed-decision", "typed decision", "decision-model", "decision model", "system-one", "system one",
+        "janhq/jan", "exo-explore", "lightrag", "pageindex", "qanything", "vector-search",
+        "typed-decision", "typed decision", "decision-model", "decision model", "system-one", "system one",
         "system 1", "llm gateway", "ai gateway", "new-api", "amrouter", "clawrouter", "vertex2openai", "muse2api",
-        "gpt4free", "python-genai", "gemini-api", "chat-demo", "rig", "mem0", "supermemory", "headroom",
+        "gpt4free", "python-genai", "gemini-api", "chat-demo", "mem0", "supermemory", "headroom",
         "docling", "llm_wiki", "libretranslate", "langfuse", "classifier-dev", "opencodex", "n9router",
-    ]):
+    ]) or re.search(r"\b(?:rag|jev|rig)\b", blob):
         return "llms-local-inference-rag"
 
     if any(k in blob for k in ["pandas", "statistics", "mathematical", "machine-learning", "data-science"]):

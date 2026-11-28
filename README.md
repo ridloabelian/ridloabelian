@@ -15,7 +15,7 @@
   </p>
   <p>
     <a href="https://linkedin.com/in/ridloabelian"><img src="https://img.shields.io/badge/LinkedIn-ridloabelian-0a66c2?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0yMC40NDcgMjAuNDUyaC0zLjU1NHYtNS41NjljMC0xLjMyOC0uMDI3LTMuMDM3LTEuODUyLTMuMDM3LTEuODUzIDAtMi4xMzYgMS40NDUtMi4xMzYgMi45Mzl2NS42NjdIOS4zNTFWOWgzLjQxNHYxLjU2MWguMDQ2Yy40NzctLjkgMS42MzctMS44NSAzLjM3LTEuODUgMy42MDEgMCA0LjI2NyAyLjM3IDQuMjY3IDUuNDU1djYuMjg2ek01LjMzNyA3LjQzM2EyLjA2MiAyLjA2MiAwIDAxLTIuMDYzLTIuMDY1IDIuMDY0IDIuMDY0IDAgMTEyLjA2MyAyLjA2NXptMS43ODIgMTMuMDE5SDMuNTU1VjloMy41NjR2MTEuNDUyek0yMi4yMjUgMEgxLjc3MUMuNzkyIDAgMCAuNzc0IDAgMS43Mjl2MjAuNTQyQzAgMjMuMjI3Ljc5MiAyNCAxLjc3MSAyNGgyMC40NTFDMjMuMiAyNCAyNCAyMy4yMjcgMjQgMjIuMjcxVjEuNzI5QzI0IC43NzQgMjMuMiAwIDIyLjIyMiAwaC4wMDN6Ii8+PC9zdmc+" alt="LinkedIn" /></a>
-    <a href="https://github.com/ridloabelian?tab=stars"><img src="https://img.shields.io/badge/Star_Lists-12_Lists_%C2%B7_1%2C074%E2%98%85-d97706?style=for-the-badge&logo=github&logoColor=white" alt="Curated Star Lists" /></a>
+    <a href="https://github.com/ridloabelian?tab=stars"><img src="https://img.shields.io/badge/Star_Lists-12_Lists_%C2%B7_1%2C091%E2%98%85-d97706?style=for-the-badge&logo=github&logoColor=white" alt="Curated Star Lists" /></a>
     <a href="cv.md"><img src="https://img.shields.io/badge/CV-View_Resume-6366f1?style=for-the-badge&logo=readme&logoColor=white" alt="CV" /></a>
   </p>
 </div>
@@ -64,7 +64,7 @@ Driving the Smart Nazhir Ecosystem 2030, national waqf standards (`PSAK 412/112`
 #### 🌍 Open Source & Research
 [![Creator & Curator](https://img.shields.io/badge/Creator_%26_Curator-60%2B_Repos-6366f1?style=flat-square&logo=github&logoColor=white)](https://github.com/ridloabelian?tab=repositories)
 
-Shipping open-source `Odoo 18–20` NPO suites, `Stack Rp 0` cloud blueprints, and [12 Star Lists (1,074★)](https://github.com/ridloabelian?tab=stars) for Indonesian builders.
+Shipping open-source `Odoo 18–20` NPO suites, `Stack Rp 0` cloud blueprints, and [12 Star Lists (1,091★)](https://github.com/ridloabelian?tab=stars) for Indonesian builders.
 
 </td>
   </tr>
@@ -289,7 +289,7 @@ Shipping open-source `Odoo 18–20` NPO suites, `Stack Rp 0` cloud blueprints, a
 <br>
 
 <details open>
-<summary><b>🌐 Web Platforms, Halal Web3 & Digital Ledgers</b> · <code>6 platforms</code></summary>
+<summary><b>🌐 Web Platforms, Halal Web3 & Digital Ledgers</b> · <code>8 platforms</code></summary>
 
 *Verifiable ledgers, zero-riba Web3 vaults, national portals, and omnichannel communication platforms:*
 
@@ -301,6 +301,8 @@ Shipping open-source `Odoo 18–20` NPO suites, `Stack Rp 0` cloud blueprints, a
 | [**nazhir.id**](https://github.com/ridloabelian/nazhir.id) · [![Live](https://img.shields.io/badge/live-10b981?style=flat-square)](https://nazhir.id) | Unified dashboard for national waqf administration and the Smart Nazhir Ecosystem 2030. | `TypeScript · SaaS` |
 | [**conviq**](https://github.com/ridloabelian/conviq) · [![Live](https://img.shields.io/badge/live-10b981?style=flat-square)](https://conviq-website.pages.dev) | Open-source live chat, email support, and omnichannel customer desk (self-hosted alternative to Intercom & Zendesk). | `Ruby · Omnichannel` |
 | [**fwp.or.id**](https://github.com/ridloabelian/fwp.or.id) · [![Live](https://img.shields.io/badge/live-10b981?style=flat-square)](https://fwp.or.id) | Official portal of Forum Wakaf Produktif (FWP) built with React, Vite, and Cloudflare Pages. | `React · Cloudflare` |
+| [**warm-crm**](https://github.com/ridloabelian/warm-crm) | Local-first, 100% offline personal relationship companion with SQLite data ownership, anti-guilt weekly ritual, and Tauri v2 desktop support (Hono + React 19). | `TypeScript · SQLite / Tauri` |
+| [**throwaway-event**](https://github.com/ridloabelian/throwaway-event) | Privacy-first, zero-signup, auto-expiring throwaway micro-app platform for group trips & events (live itinerary, polls, split-the-tab, disappearing photo wall). | `TypeScript · Next.js / Drizzle` |
 
 </details>
 
@@ -349,21 +351,21 @@ Shipping open-source `Odoo 18–20` NPO suites, `Stack Rp 0` cloud blueprints, a
 
 ### 🌟 Curated Research & Star Directories
 
-I actively curate open-source tooling, agent frameworks, and infrastructure patterns across **[12 Curated Star Lists (1,022 Categorized · 1,074 Total Starred Repositories)](https://github.com/ridloabelian?tab=stars)** — *auto-synced daily via GitHub Actions*:
+I actively curate open-source tooling, agent frameworks, and infrastructure patterns across **[12 Curated Star Lists (1,091 Categorized · 1,091 Total Starred Repositories)](https://github.com/ridloabelian?tab=stars)** — *auto-synced daily via GitHub Actions*:
 
 | Curated Directory | Repos | Distribution | Scope & Highlights |
 | :--- | :---: | :---: | :--- |
-| 🤖 [**AI Agents & Coding Assistants**](https://github.com/stars/ridloabelian/lists/ai-agents-coding-assistants) | `245` | `██████████` | Agentic coding, Antigravity, Claude Code, MCP servers, Hermes, OpenCode, & skill registries |
-| 🧠 [**LLMs, Local Inference & RAG**](https://github.com/stars/ridloabelian/lists/llms-local-inference-rag) | `160` | `███████░░░` | Local LLM engines (llama.cpp, MLX, Ollama, OpenVINO), Jev/System-1 decision models, gateways & RAG |
-| 🎨 [**Creative & Multimodal AI**](https://github.com/stars/ridloabelian/lists/creative-multimodal-ai) | `155` | `██████░░░░` | AI video & motion graphics skills (Remotion, HyperFrames, GSAP), Whisper/TTS dubbing, & Rust creative apps |
-| 💼 [**Business, Fintech & Career**](https://github.com/stars/ridloabelian/lists/business-fintech-career) | `98` | `████░░░░░░` | Quant & IDX/crypto trading bots, open-source CRM/billing/ERP (Odoo, Twenty, Hyperswitch), & WhatsApp Cloud |
-| 🛡️ [**Cybersecurity, OSINT & Red Team**](https://github.com/stars/ridloabelian/lists/cybersecurity-osint-red-team) | `78` | `███░░░░░░░` | Autonomous pentesting & bug-hunting agents, AI skill/code security scanners, OSINT engines, & Nuclei |
-| ☁️ [**DevOps, Cloud & Self-Hosted**](https://github.com/stars/ridloabelian/lists/devops-cloud-self-hosted) | `65` | `███░░░░░░░` | Cloudflare Workers/D1/R2 edge apps, Docker & PaaS (Dokploy, Arcane), observability, & homelab stacks |
+| 🤖 [**AI Agents & Coding Assistants**](https://github.com/stars/ridloabelian/lists/ai-agents-coding-assistants) | `278` | `██████████` | Agentic coding, Antigravity, Claude Code, Gemini CLI, MCP servers, multi-agent harnesses & skill registries |
+| 🎨 [**Creative & Multimodal AI**](https://github.com/stars/ridloabelian/lists/creative-multimodal-ai) | `165` | `██████░░░░` | AI video & motion graphics (Remotion, Motion Canvas, Manim, HyperFrames), Whisper/TTS, & Blender/Godot 3D |
+| 🧠 [**LLMs, Local Inference & RAG**](https://github.com/stars/ridloabelian/lists/llms-local-inference-rag) | `163` | `██████░░░░` | Local LLM engines (llama.cpp, MLX, Ollama, OpenVINO), Jev/System-1 decision models, gateways & RAG |
+| 💼 [**Business, Fintech & Career**](https://github.com/stars/ridloabelian/lists/business-fintech-career) | `100` | `████░░░░░░` | Quant & IDX/crypto trading bots, open-source CRM/billing/ERP (Odoo, Twenty, Hyperswitch), & WhatsApp Cloud |
+| 🛡️ [**Cybersecurity, OSINT & Red Team**](https://github.com/stars/ridloabelian/lists/cybersecurity-osint-red-team) | `79` | `███░░░░░░░` | Autonomous pentesting & bug-hunting agents, AI skill/code security scanners, OSINT engines, & Nuclei |
+| ☁️ [**DevOps, Cloud & Self-Hosted**](https://github.com/stars/ridloabelian/lists/devops-cloud-self-hosted) | `65` | `██░░░░░░░░` | Cloudflare Workers/D1/R2 edge apps, Docker & PaaS (Dokploy, Arcane), observability, & homelab stacks |
+| 🖥️ [**Modern Web Dev & UI Design**](https://github.com/stars/ridloabelian/lists/modern-web-dev-ui-design) | `53` | `██░░░░░░░░` | Modern React/Next.js SaaS stacks, AI UI builders, Three.js/Babylon.js/WebGL, & Canvas/SVG animation engines |
 | 📚 [**Awesome Lists & Resources**](https://github.com/stars/ridloabelian/lists/awesome-lists-resources) | `51` | `██░░░░░░░░` | Curated developer directories, engineering roadmaps, system design handbooks, & free LLM/cloud tiers |
-| ⚡ [**Automation, Bots & Growth**](https://github.com/stars/ridloabelian/lists/automation-bots-growth) | `47` | `██░░░░░░░░` | AI browser automation (Skyvern, Stagehand, Playwright), multi-channel publishing, & growth/ads scrapers |
-| 📱 [**OS Utilities, macOS & Mobile**](https://github.com/stars/ridloabelian/lists/os-utilities-macos-mobile) | `46` | `██░░░░░░░░` | macOS utilities & launchers, Android cloud/remote control (scrcpy, redroid), & computer-use sandboxes |
-| 🖥️ [**Modern Web Dev & UI Design**](https://github.com/stars/ridloabelian/lists/modern-web-dev-ui-design) | `43` | `██░░░░░░░░` | Modern React/Next.js SaaS stacks, AI UI builders, Three.js/WebGL renderers, & web animation engines |
-| 🔧 [**DevTools, CLI & Terminal**](https://github.com/stars/ridloabelian/lists/devtools-cli-terminal) | `23` | `█░░░░░░░░░` | High-performance editors (Zed), codebase search (tgrep), database/API clients, & CLI developer workflows |
+| 📱 [**OS Utilities, macOS & Mobile**](https://github.com/stars/ridloabelian/lists/os-utilities-macos-mobile) | `51` | `██░░░░░░░░` | macOS utilities & launchers, Android cloud/remote control (scrcpy, redroid), & computer-use sandboxes |
+| ⚡ [**Automation, Bots & Growth**](https://github.com/stars/ridloabelian/lists/automation-bots-growth) | `50` | `██░░░░░░░░` | AI browser automation (Skyvern, Stagehand, Playwright), multi-channel publishing, & growth/ads scrapers |
+| 🔧 [**DevTools, CLI & Terminal**](https://github.com/stars/ridloabelian/lists/devtools-cli-terminal) | `25` | `█░░░░░░░░░` | High-performance editors (Zed), terminals (cmux, Oh My Posh), codebase search (tgrep), & CLI dev workflows |
 | 📈 [**Data Science & ML Foundations**](https://github.com/stars/ridloabelian/lists/data-science-ml-foundations) | `11` | `█░░░░░░░░░` | Data manipulation libraries, statistical computing, mathematical modeling, & GPU training orchestration |
 
 <picture>
